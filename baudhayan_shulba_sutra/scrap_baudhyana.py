@@ -49,7 +49,7 @@ if __name__ == "__main__":
     try:
         text = read_markdown_file(file_path)
         structured_verses = parse_hindi_text(text)
-        print("total_verses",len(structured_verses))
+        print("total_verses",len(structured_versesx`))
         # Print JSON output
         json_output = json.dumps(structured_verses, ensure_ascii=False, indent=2)
         with open("output.json", "w", encoding="utf-8") as json_file:

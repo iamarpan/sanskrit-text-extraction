@@ -34,7 +34,7 @@ def extract_verses_from_md(input_file, output_file="verses_output.json"):
             # Append to list
             verses.append({
                 "verse": verse_text,
-                "ref": f"AngIrasa-smRtiH->{verse_number}"
+                "ref": f"brihaspati-smRtiH->{verse_number}"
             })
 
     # Write to JSON file

@@ -36,12 +36,29 @@ def create_verses(input_file):
 
     print(f"Verses successfully extracted and saved to {output_file}")
 
+def clean_khanda_text(input_json="verses.json", output_json="processed_verses.json"):
+    # Read the JSON file
+    with open(input_json, "r", encoding="utf-8") as file:
+        verses = json.load(file)
 
+    # Process each verse
+    for verse in verses:
+        if "verse" in verse and "खण्डम्" in verse["verse"]:
+            # Find the position of खण्डम् and remove everything before and including it
+            khanda_pos = verse["verse"].find("खण्डम्")
+            verse["verse"] = verse["verse"][khanda_pos + len("खण्डम्"):].strip()
+
+    # Write the processed verses back to a new JSON file
+    with open(output_json, "w", encoding="utf-8") as file:
+        json.dump(verses, file, indent=4, ensure_ascii=False)
+
+    print(f"Verses processed and saved to {output_json}")
 
 # Example usage
 
 if __name__ == '__main__':
-    input_file = "/Users/arpansrivastava/Development/BHERI/gRhyam/varaha_grihya_sutra.md"  # Update this to your actual file name
+    input_file = "/Users/arpansrivastava/Development/BHERI/gRhyam/varaha_grihya_sutra/varaha_grihya_sutra.md"  # File is in the same directory
     input_json_file = "verses.json"
     output_json_file = "cleaned_verses.json"
     create_verses(input_file)
+    clean_khanda_text(input_json_file, "processed_verses.json")

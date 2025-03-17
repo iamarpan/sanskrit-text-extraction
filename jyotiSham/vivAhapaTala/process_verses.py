@@ -27,7 +27,7 @@ def process_verses(markdown_file):
                 else:
                     # Create new verse entry
                     verses_dict[current_number] = {
-                        "verse_number": current_number,
+                        "verse_number": f"vivAhapaTala->{current_number}",
                         "verse": verse_text,
                         "verse_metadata": []
                     }
@@ -48,13 +48,13 @@ def process_verses(markdown_file):
         else:
             # Create new verse entry
             verses_dict[current_number] = {
-                "verse_number": current_number,
+                "verse_number": f"vivAhapaTala->{current_number}",
                 "verse": verse_text,
                 "verse_metadata": []
             }
     
     # Convert dictionary to list and sort by verse number
-    verses = sorted(verses_dict.values(), key=lambda x: int(x["verse_number"]))
+    verses = sorted(verses_dict.values(), key=lambda x: int(x["verse_number"].split("->")[1]))
     
     # Create the final JSON structure
     json_structure = {

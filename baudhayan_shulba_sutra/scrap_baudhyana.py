@@ -46,15 +46,15 @@ def parse_hindi_text(text):
 
 if __name__ == "__main__":
     file_path = "/Users/arpansrivastava/Development/BHERI/Baudhayana_Shulba_Sutra.md"  # Replace with your file path
+    file_path = "/Users/arpansrivastava/Development/BHERI-scrapper/sanskrit-text-extraction/baudhayan_shulba_sutra/Baudhayana_Shulba_Sutra.md"
+
     try:
         text = read_markdown_file(file_path)
         structured_verses = parse_hindi_text(text)
-        print("total_verses",len(structured_versesx`))
+        print("total_verses",len(structured_verses))
         # Print JSON output
-        json_output = json.dumps(structured_verses, ensure_ascii=False, indent=2)
         with open("output.json", "w", encoding="utf-8") as json_file:
-            json.dump(json_output, json_file, ensure_ascii=False, indent=2)
-        print(json_output)
+            json.dump(structured_verses, json_file, ensure_ascii=False, indent=2)
 
     except Exception as e:
         print(f"Error: {e}")

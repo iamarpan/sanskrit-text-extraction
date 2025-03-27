@@ -57,13 +57,10 @@ def process_verses(markdown_file):
     verses = sorted(verses_dict.values(), key=lambda x: int(x["verse_number"].split("->")[1]))
     
     # Create the final JSON structure
-    json_structure = {
-        "verses": verses
-    }
     
     # Write to JSON file
     with open('verses.json', 'w', encoding='utf-8') as f:
-        json.dump(json_structure, f, ensure_ascii=False, indent=2)
+        json.dump(verses, f, ensure_ascii=False, indent=2)
 
 if __name__ == "__main__":
     process_verses('vivAhapaTala.md') 

@@ -46,10 +46,10 @@ def process_yogayatra_file(filename="yogayAtrA.md"):
 
 def main():
     verses = process_yogayatra_file()
-    output_file = "yogayatra_verses.json"
+    output_file = "output.json"
     try:
         with open(output_file, 'w', encoding='utf-8') as f:
-            json.dump({"verses": verses}, f, ensure_ascii=False, indent=2)
+            json.dump(verses, f, ensure_ascii=False, indent=2)
         print(f"Successfully wrote verses to {output_file}")
     except Exception as e:
         print(f"Error writing to JSON file: {str(e)}")

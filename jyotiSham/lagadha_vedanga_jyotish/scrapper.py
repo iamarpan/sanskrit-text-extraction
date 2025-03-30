@@ -25,7 +25,7 @@ def extract_verses(markdown_file):
             
             # Create verse object
             verse_obj = {
-                'verse_number': verse_number,
+                'verse_number': "lagadha_vedanga_jyotish->"+str(verse_number),
                 'verse': verse_text,
                 'verse_metadata': []
             }
@@ -44,7 +44,7 @@ def extract_verses(markdown_file):
             verse_text = verse_text[:-len(verse_number)].strip()
         
         verse_obj = {
-            'verse_number': verse_number,
+            'verse_number': "lagadha_vedanga_jyotish->"+str(verse_number),
             'verse': verse_text,
             'verse_metadata': []
         }

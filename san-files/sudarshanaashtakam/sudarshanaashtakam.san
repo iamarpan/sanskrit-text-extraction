@@ -1,0 +1,119 @@
+\documentclass[letterpaper,12pt]{article}
+\input{e:/slokas/texcmd/mycmd}
+\begin{document}
+\begin{titlepage}
+\topmargin=-1in
+\vspace*{\fill}
+\begin{center}
+{\san[1.20] "srii.h}\\
+{\san[1.20] "sriimate raamaanujaaya nama.h}\\
+{\san[1.20] "sriimate nigamaantamahaade"sikaaya nama.h}\\
+\vspace{1.0in}
+{\san "sriimannigamaantamahaade"sikai.h anug.rhiitam}\\
+{\sktb \sktbten ||}
+{\san[2.00] "srii sudar"sanaa.s.takam}%
+{\sktb \sktbten ||}\\
+\vspace{0.25in}
+{\eng[1.1]This document has been prepared by}\\[0.2cm]
+{\eng[1.1] Sunder Kid\=ambi}\\[0.2cm]
+{\eng[1.1]with the blessings of}\\[0.2cm]
+{\san "srii ra"ngaraamaanuja mahaade"sikan}\\
+\vspace{0.1in}
+{\eng[1.1] His Holiness}
+{\rome "sriimad aa.n.davan "sriira"ngam}
+\end{center}
+\vspace*{\fill}
+\end{titlepage}
+
+\thispagestyle{empty}
+\fancyhead[LE,RO]{\raisebox{0.1em}{\san[1.00] "srii sudar"sanaa.s.takam}}
+\fancyhead[RE,LO]{\raisebox{0.1em}{\san[1.00] "sriide"sikastotraa.ni}}
+\fancyfoot[LE,RO]{\eng[1.1] Sunder Kid\=ambi}
+\fancyfoot[RE,LO]{\eng[1.1] www.prapatti.com}
+\fancyfoot[CE,CO]{\thepage}
+\begin{center}
+{\san[1.20] "srii.h}\\
+{\san[1.20] "sriimate raamaanujaaya nama.h}\\
+{\san[1.20] "sriimate nigamaantamahaade"sikaaya nama.h}\\
+{\sktb \sktbten ||}
+{\san[2.00] "srii sudar"sanaa.s.takam}%
+{\sktb \sktbten ||}
+\hfill\\[0.2cm]
+\begin{tabular}{@{}l@{}}
+{\san[1.20] "sriimaan ve"nka.tanaathaarya.h kavitaarkikakesarii{\sd}}\\[-0.1cm]
+{\san[1.20] vedaantaacaaryavaryo me sannidhattaa.m sadaa h.rdi{\sdd}}\\
+\end{tabular}
+\end{center}
+\label{sudarshanaashtakam}
+\begin{tabular}{p{2.5in}p{0.1in}l}
+{\san pratibha.ta"sre.nibhii.sa.na}&&{\san varagu.nastomabhuu.sa.na}\\
+\hskip 8mm{\san janibhayasthaanataara.na}&&\hskip 8mm {\san jagadavasthaanakaara.na{\sd}}\\
+{\san nikhiladu.skarmakar"sana}&&{\san nigamasaddharmadar"sana}\\
+\hskip 8mm{\san jaya jaya "sriisudar"sana}&&\hskip 8mm {\san jaya jaya "sriisudar"sana{\sdds{1}}}\\*[0.4cm]
+\end{tabular}
+
+\begin{tabular}{p{2.5in}p{0.1in}l}
+{\san "subhajagadruupama.n.dana}&&{\san suraga.natraasakha.n.dana}\\
+\hskip 8mm{\san "satamakhabrahmavandita}&&\hskip 8mm{\san "satapathabrahmanandita{\sd}}\\
+{\san prathitavidvatsapak.sita}&&{\san bhajadahirbudhnyalak.sita}\\
+\hskip 8mm{\san jaya jaya "sriisudar"sana}&&\hskip 8mm{\san jaya jaya "sriisudar"sana{\sdds{2}}}\\*[0.4cm]
+\end{tabular}
+
+\begin{tabular}{p{2.5in}p{0.1in}l}
+{\san sphu.tata.tijjaalapi~njara}&&{\san p.rthutarajvaalapa~njara}\\
+\hskip 8mm{\san parigatapratnavigraha}&&\hskip 8mm{\san pa.tutarapraj~nadurgraha{\sd}}\\
+{\san prahara.nagraamama.n.dita}&&{\san parijanatraa.napa.n.dita}\\
+\hskip 8mm{\san jaya jaya "sriisudar"sana}&&\hskip 8mm{\san jaya jaya "sriisudar"sana{\sdds{3}}}\\*[0.4cm]
+\end{tabular}
+
+\begin{tabular}{p{2.5in}p{0.1in}l}
+{\san nijapadapriitasadga.na}&&{\san nirupadhisphiita.sa.dgu.na}\\
+\hskip 8mm{\san nigamanirvyuu.dhavaibhava}&&\hskip 8mm{\san nijaparavyuuhavaibhava{\sd}}\\
+{\san harihayadve.sidaara.na}&&{\san harapuraplo.sakaara.na}\\
+\hskip 8mm{\san jaya jaya "sriisudar"sana}&&\hskip 8mm{\san jaya jaya "sriisudar"sana{\sdds{4}}}\\*[0.4cm]
+\end{tabular}
+
+\begin{tabular}{p{2.5in}p{0.1in}l}
+{\san danujavistaarakartana}&&{\san janitamisraavikartana}\\
+\hskip 8mm{\san danujavidyaanikartana}&&\hskip 8mm{\san bhajadavidyaanivartana{\sd}}\\
+{\san amarad.r.s.tasvavikrama}&&{\san samaraju.s.tabhramikrama}\\
+\hskip 8mm{\san jaya jaya "sriisudar"sana}&&\hskip 8mm{\san jaya jaya "sriisudar"sana{\sdds{5}}}\\*[0.4cm]
+\end{tabular}
+
+\begin{tabular}{p{2.5in}p{0.1in}l}
+{\san pratimukhaalii.dhabandhura}&&{\san p.rthumahaahetidantura}\\
+\hskip 8mm{\san vika.tamaayaabahi.sk.rta}&&\hskip 8mm{\san vividhamaalaapari.sk.rta{\sd}}\\
+{\san sthiramahaayantratantrita}&&{\san d.r.dhadayaatantrayantrita}\\
+\hskip 8mm{\san jaya jaya "sriisudar"sana}&&\hskip 8mm{\san jaya jaya "sriisudar"sana{\sdds{6}}}\\*[0.4cm]
+\end{tabular}
+
+\begin{tabular}{p{2.5in}p{0.1in}l}
+{\san mahitasa.mpatsadak.sara}&&{\san vihitasa.mpat.sa.dak.sara}\\
+\hskip 8mm{\san .sa.daracakraprati.s.thita}&&\hskip 8mm{\san sakalatattvaprati.s.thita{\sd}}\\
+{\san vividhasa"nkalpakalpaka}&&{\san vibudhasa"nkalpakalpaka}\\
+\hskip 8mm{\san jaya jaya "sriisudar"sana}&&\hskip 8mm{\san jaya jaya "sriisudar"sana{\sdds{7}}}\\*[0.4cm]
+\end{tabular}
+
+\begin{tabular}{p{2.5in}p{0.1in}l}
+{\san bhuvananetratrayiimaya}&&{\san savanatejastrayiimaya}\\
+\hskip 8mm{\san niravadhisvaaducinmaya}&&\hskip 8mm{\san nikhila"sakte jaganmaya{\sd}}\\
+{\san amitavi"svakriyaamaya}&&{\san "samitavi.svagbhayaamaya}\\
+\hskip 8mm{\san jaya jaya "sriisudar"sana}&&\hskip 8mm{\san jaya jaya "sriisudar"sana{\sdds{8}}}\\*[0.4cm]
+\end{tabular}
+
+\begin{slokatwo}{0.0in}
+{\san dvicatu.skamida.m prabhuutasaara.m pa.thataa.m ve"nka.tanaayakapra.niitam{\sd}\\
+vi.same.api manoratha.h pradhaavan na vihanyeta rathaa"ngadhuryagupta.h{\sdds{9}}\par}
+\end{slokatwo}
+\vspace{-0.4cm}
+\begin{center}
+{\sdd}
+{\san[1.20] iti "srii sudar"sanaa.s.taka.m samaaptam}%
+{\sdd}
+\hfill\\[0.2cm]
+\begin{tabular}{@{}l@{}}
+{\san[1.20] kavitaarkikasi.mhaaya kalyaa.nagu.na"saaline{\sd}}\\[-0.1cm]
+{\san[1.20] "sriimate ve"nka.te"saaya vedaantagurave nama.h{\sdd}}\\
+\end{tabular}
+\end{center}
+\end{document}

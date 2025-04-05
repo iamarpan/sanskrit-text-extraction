@@ -1,0 +1,1489 @@
+\documentclass[letterpaper,12pt]{article}
+\input{e:/slokas/texcmd/mycmd}
+\begin{document}
+\begin{titlepage}
+\topmargin=-1in
+\vspace*{\fill}
+\begin{center}
+{\san[1.20] "srii.h}\\
+{\san[1.20] "sriimate raamaanujaaya nama.h}\\
+{\san[1.20] "sriimate nigamaantamahaade"sikaaya nama.h}\\
+\vspace{1.0in}
+{\san "sriimannigamaantamahaade"sikai.h anug.rhiitam}\\
+{\sktb \sktbten ||}
+{\san[2.00] "srii accuasa{}a{}am}%
+{\sktb \sktbten ||}\\
+{\san (\,"srii acyuta"satakam\,)}\\
+\vspace{0.25in}
+{\eng[1.1]This document has been prepared by}\\[0.2cm]
+{\eng[1.1] Sunder Kid\=ambi}\\[0.2cm]
+{\eng[1.1]with the blessings of}\\[0.2cm]
+{\san "srii ra"ngaraamaanuja mahaade"sikan}\\
+\vspace{0.1in}
+{\eng[1.1] His Holiness}
+{\rome "sriimad aa.n.davan "sriira"ngam}
+\end{center}
+\vspace*{\fill}
+\end{titlepage}
+
+\thispagestyle{empty}
+\fancyhead[LE,RO]{\raisebox{0.1em}{\san[1.00] "srii accuasa{}a{}am}}
+\fancyhead[RE,LO]{\raisebox{0.1em}{\san[1.00] "sriide"sikastotraa.ni}}
+\fancyfoot[LE,RO]{\eng[1.1] Sunder Kid\=ambi}
+\fancyfoot[RE,LO]{\eng[1.1] www.prapatti.com}
+\fancyfoot[CE,CO]{\thepage}
+\begin{center}
+{\san[1.20] "srii.h}\\
+{\san[1.20] "sriimate raamaanujaaya nama.h}\\
+{\san[1.20] "sriimate nigamaantamahaade"sikaaya nama.h}\\
+{\sktb \sktbten ||\,}
+{\san[2.00] "srii accuasa{}a{}am}%
+{\sktb \sktbten ||}\\
+{\san (\,"srii acyuta"satakam\,)}
+\hfill\\[0.2cm]
+\begin{tabular}{@{}l@{}}
+{\san[1.20] "sriimaan ve"nka.tanaathaarya.h kavitaarkikakesarii{\sd}}\\[-0.1cm]
+{\san[1.20] vedaantaacaaryavaryo me sannidhattaa.m sadaa h.rdi{\sdd}}\\
+\end{tabular}
+\end{center}
+\label{accuasaam}
+\begin{slokatwo}{0.0in}
+{\san sirive"nka.da.naahajjo
+ka{}itakkiasiihasavvatantasatanto{\sd}\\
+veantaariavajjo
+maha sa.n.nijjhe{}u sa{}i sa{}a.m hi{}a{}ammi{\sdd}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\sana "sriive"nka.tanaathaarya.h
+kavitaarkikasi.mhasarvatantrasvatantra.h{\sd}\\
+vedaantaacaaryavaryo
+mama sa.mnidhattaa.m sadaa svaya.m h.rdaye{\sdd}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\san .namaha tiasaa.na .naaha.m
+sacca.m daasaa.na accua.m .thirajoim{\sd}\\
+galula.na{}ita.datamaalam
+ahinda.na{}arosahaaalekkaga{}indam{\sdds{1}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\sana namata trida"saanaa.m naatha.m
+satya.m daasaanaamacyuta.m sthirajyoti.h{\sd}\\
+garu.danadiita.tatamaalam
+ahiindranagarau.sadhaacalaikagajendram{\sdds{1}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\san ki"nkarasacca thuii tuha
+sa{}a.mbhugehi.nivilaasavaahittama{}ii{\sd}\\
+pha.ni{}aa baale.na ma{}e
+pa~njarasuajappia.m va ku.na{}u pasaaam{\sdds{2}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\sana ki"nkarasatya stutistava
+svaya.mbhuugehiniivilaasavyaah.rtamayii{\sd}\\
+pha.nitaa baalena mayaa
+pa~njara"sukajalpitamiva karotu prasaadam{\sdds{2}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\san ma{}ila.m vi bhaasia.m maha
+ki"nkarasacca tuha kittijo.nhaapasare{\sd}\\
+lagga.m laha{}u visuddhi.m
+racchaasalila.m va tivaha{}aasottaga{}am{\sdds{3}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\sana malinamapi bhaa.sita.m mama
+ki"nkarasatya tava kiirtijyotsnaaprasare{\sd}\\
+lagna.m labhataa.m vi"suddhi.m
+rathyaasalilamiva tripathagaasrotogatam{\sdds{3}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\san tatthari.na{}e.na .thaviaa
+soha{}u ti{}asaa.na .naaha tujjha samaae{\sd}\\
+vanditta.namahiaa.na.m
+majjhammi suii.na baalisaa majjha thuii{\sdds{4}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\sana trastarinayena sthaapitaa
+"sobhataa.m trida"saanaa.m naatha tava samaaje{\sd}\\
+vanditvamahitaanaa.m
+madhye "srutiinaa.m baali"saa mama stuti.h{\sdds{4}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\san amhaguruu.nam accua
+jiihaasiihaasa.nammi laddhapa{}i.t.tho{\sd}\\
+pa.divaa{}iaparama.t.tho
+vaaresi apa.n.di{}atta.nam amhaa.nam{\sdds{5}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\sana asmadguruu.naamacyuta
+jihvaasi.mhaasane labdhaprati.s.tha.h{\sd}\\
+pratipaaditaparamaartho
+vaarayasyapa.n.ditatvamasmaakam{\sdds{5}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\san hiaesu desiaa.na.m
+ja.nha{}ilahariisu pu.n.nacando vva phu.do{\sd}\\
+kalusajalesu va ha.mso
+kasaaakaburesu .thaasi accua .na kha.nam{\sdds{6}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\sana h.rdaye.su de"sikaanaa.m
+jaahnaviilaharii.su puur.nacandra iva sphu.ta.h{\sd}\\
+kalu.sajale.sviva ha.msa.h
+ka.saayakarbure.su ti.s.thasyacyuta na k.sa.nam{\sdds{6}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\san aaamamettapamaa.no
+aagovia.na.m pa{}aasa.niamaahappo{\sd}\\
+saddahiahia{}asulaho
+duura.m muasi .na{}asacca .dolaaante{\sdds{7}}\par}
+\end{slokatwo}
+\longpage
+\begin{slokatwo}{0.0in}
+{\sana aagamamaatrapramaa.na.h
+aagopiijana.m prakaa"sanijamaahaatmya.h{\sd}\\
+"sraddhitah.rdayasulabho
+duura.m mu~ncasi natasatya dolaayamaanaan{\sdds{7}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\san sa{}i khaviasa{}alahea.m
+sara.naaga{}asacca sacca.naa.naa.nandam{\sd}\\
+ulla"nghiativihantam
+uva.nisa{}aa.na.m sa{}aa{}i gaaanti tumam{\sdds{8}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\sana sadaa k.sapitasakalaheya.m
+"sara.naagatasatya satyaj~naanaanandam{\sd}\\
+ulla"nghitatrividhaantam
+upani.sadaa.m "sataani gaayanti tvaam{\sdds{8}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\san ku.nasi .na kiirasi ke.na vi
+.thaavesi .na sa.n.thavijjasi a.na.n.na.thio{\sd}\\
+harasi .nihila.m .na hiirasi
+ahinda.na{}arinda a.nahajoiphuranto{\sdds{9}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\sana karo.si na kriyase kenaapi
+sthaapayasi na sa.msthaapyase.ananyasthita.h{\sd}\\
+harasi nikhila.m na hriyase
+ahiindranagarendraanaghajyoti.h sphuran{\sdds{9}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\san a.nupamiassa vi accua
+sattii tuha sa{}aladhaara.naa{}ivahuttaa{\sd}\\
+te.na pa.divatthupu.n.no
+suvvasi apa.diha{}a.nia.thi{}ii savvagao{\sdds{10}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\sana a.nupramitasyaapyacyuta
+"saktistava sakaladhaara.naadiprabhuutaa{\sd}\\
+tena prativastupuur.na.h
+"sruuyase.apratihatanijasthiti.h sarvagata.h{\sdds{10}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\san sa{}alaa.na dhara.na.niama.na
+saamitta.na.niamasa.n.thio savvata.nuu{\sd}\\
+suvvasi accua savvo
+sa{}a da.msiakajjakaara.natta.nakaburo{\sdds{11}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\sana sakalaanaa.m dhara.naniyamana
+svaamitvaniyamasa.msthita.h sarvatanu.h{\sd}\\
+"sruuyase.acyuta sarva.h
+svaya.m dar"sitakaaryakaara.natvakarbura.h{\sdds{11}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\san purisapahaa.nasariiro
+bhuva.naa.na.m hosi accua uvaaaa.nam{\sd}\\
+.niasa"nkappasa.naaho
+vahasi .nimittatta.na.m vi abbhuasattii{\sdds{12}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\sana puru.sapradhaana"sariiro
+bhuvanaanaa.m bhavasyacyutopaadaanam{\sd}\\
+nijasa"nkalpasanaatho
+vahasi nimittatvamapyadbhuta"sakti.h{\sdds{12}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\san visamagu.na"n{\br}kurapa{}are
+jala.m va saama.n.nakaara.na.m tuha ke"dii{\sd}\\
+.niakammasatti.nia{}aa
+accua bamhaa{}i.thaavarantavisesaa{\sdds{13}}\par}
+\end{slokatwo}
+\longpage
+\begin{slokatwo}{0.0in}
+{\sana vi.samagu.naa"n{\br}kuraprakare
+jalamiva saamaanyakaara.na.m tava ke"di.h{\sd}\\
+nijakarma"saktiniyataa.h
+acyuta brahmaadisthaavaraantavi"se.saa.h{\sdds{13}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\san purisaa tujjha vihuuii
+accua lacchiia itthiaasa.n.naao{\sd}\\
+.natthi para.m tujjhaa.na.m
+saa vi sirii hoi tujjha kim u.na iaram{\sdds{14}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\sana puru.saastava vibhuuti.h
+acyuta lak.smyaa.h striisa.mj~naa.h{\sd}\\
+naasti para.m yuvayo.h
+saa.api "sriirbhavati tava ki.m punaritarat{\sdds{14}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\san .na hu tuha sarisabbhahiaa
+.naaha tumam evva savvaloasara.n.no{\sd}\\
+eaava .naa.nasaaram
+ia mu.niu.m tiasa.naaha iaravi{}intaa{\sdds{15}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\sana na khalu tava sad.r"saabhyadhikaa.h
+naatha tvameva sarvaloka"sara.nya.h{\sd}\\
+etaavat j~naanasaaram
+iti j~naatu.m trida"sanaathetaravicintaa{\sdds{15}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\san bhaai pha.ninda{}uraahiva
+pa.divaalentesu paaa.davahuttaphalaa{\sd}\\
+avi duhi.nappamuhehim
+aa.nattii tuha ala"ngha.nijjapahaavaa{\sdds{16}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\sana bhaati pha.niindrapuraadhipa
+pratipaalayatsu praka.taprabhuutaphalaa{\sd}\\
+api druhi.napramukhai.h
+aaj~naptistavaala"nghaniiyaprabhaavaa{\sdds{16}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\san .niamavihii.na pa{}uttii
+savvaa.na vi daasasacca uddisia tumam{\sd}\\
+saddha.nimantiabamha.na
+samaahisiddha.m lahanti tiasaa bhuttim{\sdds{17}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\sana nigamavidhiinaa.m prav.rtti.h
+sarve.saamapi daasasatyoddi"sya tvaam{\sd}\\
+"sraaddhanimantritabraahma.na
+samaadhisiddhaa.m labhante trida"saa bhuktim{\sdds{17}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\san aarajjhatiasavilae
+accua .nicca.m .na .thaasi ja{}i .naama tumam{\sd}\\
+kammaa.na kappiaa.na.m
+kaahi{}i kappantaresu ko .nivvesam{\sdds{18}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\sana aaraadhyatrida"savilaye%
+.acyuta nitya.m na ti.s.thasi yadi naama tvam{\sd}\\
+karma.naa.m kalpitaanaa.m
+kari.syati kalpaantare.su ko nirve"sam{\sdds{18}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\san kappesi ka"nkhiaa{}i.m
+kappadumo vva sirika~nca.nala{}aasahio{\sd}\\
+.na{}asacca sa{}i phalaai.m
+.niachaahi.nihi.n.na.niccataavatihuva.no{\sdds{19}}\par}
+\end{slokatwo}
+\longpage
+\begin{slokatwo}{0.0in}
+{\sana kalpayasi kaa"nk.sitaani
+kalpadruma iva "sriikaa~ncanalataasahita.h{\sd}\\
+natasatya sadaa phalaani
+nijacchaayaanirbhinnanityataapatribhuvana.h{\sdds{19}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\san sa{}alaaamaa.na .ni.t.thaa
+sa{}alasuraa.na.m vi antaro appaa.no{\sd}\\
+sa{}alaphalaa.na pasuuii
+sa{}alaja.naa.na.m samo khu .na{}asacca tumam{\sdds{20}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\sana sakalaagamaanaa.m ni.s.thaa
+sakalasuraa.naamapyantara aatmaa{\sd}\\
+sakalaphalaanaa.m prasuuti.h
+sakalajanaanaa.m sama.h khalu natasatya tvam{\sdds{20}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\san ia savvaa.na samaa.no
+sacca.thio daasasacca sa{}i paripu.n.no{\sd}\\
+kiha vahasi pakkhavaaa.m
+pa.n.davapamuhesu pesa.na.m vi sahanto{\sdds{21}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\sana iti sarve.saa.m samaana.h
+satyasthito daasasatya sadaa paripuur.na.h{\sd}\\
+katha.m vahasi pak.sapaata.m
+paa.n.davapramukhe.su pre.sa.namapi sahamaana.h{\sdds{21}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\san visamammi kammamagge
+viparikhalantaa.na viihaliakara.naa.nam{\sd}\\
+.naaha .nihilaa.na a.n.no
+.natthi tumaahi .na{}asacca hatthaalambo{\sdds{22}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\sana vi.same karmamaarge
+vipariskhalataa.m vihvalitakara.naanaam{\sd}\\
+naatha nikhilaanaamanyo
+naasti tvannatasatya hastaalamba.h{\sdds{22}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\san .naa.nassa ko avisao
+accua kalu.naaa tujjha ko duura.thio{\sd}\\
+sattiia ko a{}ibharo
+taa khu uvaao tuma.m cia sa{}a.m siddho{\sdds{23}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\sana j~naanasya ko.avi.saya.h
+acyuta karu.naayaastava ko duurasthita.h{\sd}\\
+"sakte.h ko.atibhara.h
+tasmaat khaluupaayastvameva svaya.m siddha.h{\sdds{23}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\san sa"nkappaka.n.nahaaro
+ki"nkarasacca bhavasaaare a{}igahire{\sd}\\
+a.naho tuma.m khu po{}o
+appaa.na kivaasamiira.ne.na pa{}utto{\sdds{24}}\par}
+\end{slokatwo}
+\longpage
+\begin{slokatwo}{0.0in}
+{\sana sa"nkalpakar.nadhaara.h
+ki"nkarasatya bhavasaagare.atigabhiire{\sd}\\
+anaghastva.m khalu pota.h
+aatmanaa.m k.rpaasamiira.nena prayukta.h{\sdds{24}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\san accua .na danti mokkham
+iisarabhaave.na bhaaviaa iarasuraa{\sd}\\
+ratti.m pariva.t.teu.m
+lakkham aalekkhadi.na{}araa.na vi .na khamam{\sdds{25}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\sana acyuta na dadati mok.sam
+ii"svarabhaavena bhaavitaa itarasuraa.h{\sd}\\
+raatri.m parivartayitu.m
+lak.samaalekhyadinakaraa.naamapi na k.samam{\sdds{25}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\san amiarasasaaarassa va
+ahinda{}ura.naaha .nimmalamahagghaaim{\sd}\\
+tiiranti .na viga.neum
+a.na.n.nasulahaai tujjha gu.nara{}a.naaim{\sdds{26}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\sana am.rtarasasaagarasyeva
+ahiindrapuranaatha nirmalamahaarghaa.ni{\sd}\\
+"saknuvanti na viga.nayitum
+ananyasulabhaani tava gu.naratnaani{\sdds{26}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\san bhuusiasuisiimanto
+bhua{}inda{}uresa savvagu.nasiimanto{\sd}\\
+khaviatisaama"damoho
+mu.nii.na hiaesu phurasi saama"damoho{\sdds{27}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\sana bhuu.sita"srutisiimanto
+bhujagendrapure"sa sarvagu.nasiimaanta.h{\sd}\\
+k.sapitat.r.saamalamoho
+muniinaa.m h.rdaye.su sphurasi "syaama"damayuukha.h{\sdds{27}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\san suhalakkha.nasirivaccho
+sohasi .nimmuttavirahakha.nasirivaccho{\sd}\\
+ra.nadeva.nasavihagao
+uddha.nagalula.na{}itiirava.nasavihagao{\sdds{28}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\sana "subhalak.sa.na"sriivatsa.h
+"sobhase nirmuktavirahak.sa.na"sriivatsa.h{\sd}\\
+ra.nadevanasavidhagata.h
+udbha.tagaru.danadiitiiravanasavidhagaja.h{\sdds{28}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\san akumaarajovva.na.thiam
+ahinda{}ura.naaha ahima{}am a.nuruuvam{\sd}\\
+.nicca.m sahaavasiddha.m
+suvva{}i suurimahia.m suha.m tuha ruuvam{\sdds{29}}\par}
+\end{slokatwo}
+\longpage
+\begin{slokatwo}{0.0in}
+{\sana akumaarayauvanasthitam
+ahiindrapuranaathaabhimatamanuruupam{\sd}\\
+nitya.m svabhaavasiddha.m
+"sruuyate suurimahita.m sukha.m tava ruupam{\sdds{29}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\san tiu.na.m tassa viaaraa
+accua purisotti aaamaga.nijjantaa{\sd}\\
+atthaa tuha khu samattaa
+parammi ruupammi bhuusa.natthasaruuvaa{\sdds{30}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\sana trigu.na.m tasya vikaaraa.h
+acyuta puru.sa ityaagamaga.nyamaanaa.h{\sd}\\
+arthaastava khalu samastaa.h
+parasmin ruupe bhuu.sa.naastrasvaruupaa.h{\sdds{30}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\san .ninti tumaao accua
+.nikkhaviavivakkha.ni.t.thuraparakkama.naa{\sd}\\
+sa.n.thaviaparamadhammaa
+saahuparittaa.nasapphalaa oaaraa{\sdds{31}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\sana gacchanti tvatto.acyuta
+nik.sapitavipak.sani.s.thuraparaakrama.naa.h{\sd}\\
+sa.msthaapitaparamadharmaa.h
+saadhuparitraa.nasatphalaa avataaraa.h{\sdds{31}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\san harima.nisariccha.niarui
+hariaaantabhua{}indavuraperanto{\sd}\\
+kaale daasaja.naa.na.m
+ka.nhagha.no hosi di.n.nakaalu.n.naraso{\sdds{32}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\sana harima.nisad.rk.sanijaruci
+haritaayamaanabhujagendrapuraparyanta.h{\sd}\\
+kaale daasajanaanaa.m
+k.r.s.naghano bhavasi dattakaaru.nyarasa.h{\sdds{32}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\san galula.na{}ikacchara.n.ne
+lakkhijjasi lacchimahikare.numa.naharo{\sd}\\
+diisantabahu"dadaa.no
+disaaga{}indo vva khu.diada.nuindadumo{\sdds{33}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\sana garu.danadiikacchaara.nye
+lak.syase lak.smiimahiikare.numanohara.h{\sd}\\
+d.r"syamaanabahu"dadaano
+di"saagajendra iva kha.n.ditadanujendradruma.h{\sdds{33}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\san muhacandamo"didi.na{}ara
+majjha.thio tujjha cihurabhaarandhaaro{\sd}\\
+agha.diagha.da.naasatti.m
+sacca.m .thaavei daasasacca samaggam{\sdds{34}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\sana mukhacandramaulidinakara
+madhyasthitastava cikurabhaaraandhakaara.h{\sd}\\
+agha.titagha.tanaa"sakti.m
+satya.m sthaapayati daasasatya samagraam{\sdds{34}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\san parihasiapu.n.nacanda.m
+padumasaricchappasa.n.naloa.najua"dam{\sd}\\
+sa"nkappiaduriaai vi
+sa.mharia.m hara{}i daasasacca tuha muham{\sdds{35}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\sana parihasitapuur.nacandra.m
+padmasad.rk.saprasannalocanayuga"dam{\sd}\\
+sa"nkalpitaduritaanyapi
+sa.msm.rta.m harati daasasatya tava mukham{\sdds{35}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\san maahappa.m tuha mahia.m
+ma"nga"dia.m tu"dasikotthuhappamuhaa.nam{\sd}\\
+accua .thirava.namaala.m
+vaccha.m da.msei lacchilakkha.nasuha{}am{\sdds{36}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\sana maahaatmya.m tava mahita.m
+maa"nga"dika.m tulasiikaustubhapramukhaanaam{\sd}\\
+acyuta sthiravanamaala.m
+vatsa.m dar"sayati lak.smiilak.sa.nasubhagam{\sdds{36}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\san .nivvisa{}i .nintataavo
+deva{}a.no deva.naa{}a{}a vihippamuho{\sd}\\
+siia"dasandavahutta.m
+chaahi.m tuha viu"dabaahukappadumaa.nam{\sdds{37}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\sana nirvi"sati gacchattaapo
+devajano devanaayaka vidhipramukha.h{\sd}\\
+"siita"dasaandraprabhuutaa.m
+chaayaa.m tava vipulabaahukalpadrumaa.naam{\sdds{37}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\san sa"nkappacandakhohia
+tiu.noahiviu"dabubbuappa{}arehim{\sd}\\
+bamha.n.dehi vi bharia.m
+ki"nkarasacca tuha kiisa .nu kisam uaram{\sdds{38}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\sana sa"nkalpacandrak.sobhita
+trigu.nodadhivipulabudbudaprakarai.h{\sd}\\
+brahmaa.n.dairapi bharita.m
+ki"nkarasatya tava kasmaannu k.r"samudaram{\sdds{38}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\san .naahiruha.m tuha .na"di.na.m
+bhua{}iisara.na{}ara.naaha soha{}i suha{}am{\sd}\\
+majjha.thiabamhabhamara.m
+vacchaasa.nalacchipaaavii.dhasariccham{\sdds{39}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\sana naabhiruha.m tava na"dina.m
+bhujage"svaranagaranaatha "sobhate subhagam{\sd}\\
+madhyasthitabrahmabhramara.m
+vatsaasanalak.smiipaadapii.thasad.rk.sam{\sdds{39}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\san di.dhapii.diamahuka{}i.dhava
+so.niapa.dalaparipaa.dalambaragha.diaa{\sd}\\
+raaa{}i accua muhalaa
+ra{}i.naahaga{}indasi"nkalaa tuha rasa.naa{\sdds{40}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\sana d.r.dhapii.ditamadhukai.tabha
+"so.nitapa.talaparipaa.talaambaragha.titaa{\sd}\\
+raajatyacyuta mukharaa
+ratinaathagajendra"s.r"nkhalaa tava ra"sanaa{\sdds{40}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\san daasaa.na sacca diisa{}i
+daa.navaviiraa.na diiha.niddaasa{}a.nam{\sd}\\
+tuha uara.th.thiatihuva.na
+paasaaakkhambhasaccha{}am uurujuam{\sdds{41}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\sana daasaanaa.m satya d.r"syate
+daanavaviiraa.naa.m diirghanidraa"sayanam{\sd}\\
+tavodarasthitatribhuvana
+praasaadastambhasacchaayamuuruyugam{\sdds{41}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\san jaa.numa.nidappa.ne.na a
+ja"nghaamaraga{}aka"daaiaae a dha.niaa{\sd}\\
+accua .na mua{}i kantii
+lacchii va saroala~ncha.ne tuha cala.ne{\sdds{42}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\sana jaanuma.nidarpa.nena ca
+ja"nghaamarakataka"daacikayaa ca dhanyaa{\sd}\\
+acyuta na mu~ncati kaanti.h
+lak.smiiriva sarojalaa~nchanau tava cara.nau{\sdds{42}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\san suisiimantapasuu.na.m
+soha{}i .na{}asacca tujjha savvasara.n.nam{\sd}\\
+kama.nakha.naja.niasura.na{}i
+pasamiatellokkapaa{}a{}a.m pa{}apadumam{\sdds{43}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\sana "srutisiimantaprasuuna.m
+"sobhate natasatya tava sarva"sara.nyam{\sd}\\
+krama.nak.sa.najanitasuranadii
+pra"samitatrailokyapaataka.m padapadmam{\sdds{43}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\san ia tihuva.nekkamuu"dam
+aasaadenti a.nahaa amiasaa{}urasam{\sd}\\
+osahimahiharapaase
+uia.m tum osahi.m va daasaruaa.nam{\sdds{44}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\sana iti tribhuvanaikamuulam
+aasvaadayantyanaghaa am.rtasvaadurasam{\sd}\\
+au.sadhimahiidharapaar"sve
+udita.m tvaamau.sadhimiva daasarujaam{\sdds{44}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\san siddha~nja.na.m va saama.m
+tujjha ta.nu.m .niaviloa.nesu khivantaa{\sd}\\
+accua lacchi.nivaasa.m
+.nicca.niuu.dha.m .nihi.m va pecchanti tumam{\sdds{45}}\par}
+\end{slokatwo}
+\longpage
+\begin{slokatwo}{0.0in}
+{\sana siddhaa~njanamiva "syaamaa.m
+tava tanu.m nijavilocane.su k.sipanta.h{\sd}\\
+acyuta lak.smiinivaasa.m
+nityaniguu.dha.m nidhimiva pa"syanti tvaam{\sdds{45}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\san viha.dia.nibi.dandhaaro
+gha.dantajoii tiloaekkagahava{}ii{\sd}\\
+di.th.thigao jaa.na tuma.m
+.namantasacca .na hu taa.na mohatiaamaa{\sdds{46}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\sana vigha.titanibi.daandhakaaro
+gha.tamaanajyotistrilokaikagrahapati.h{\sd}\\
+d.r.s.tigato ye.saa.m tva.m
+namatsatya na khalu te.saa.m mohatriyaamaa{\sdds{46}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\san visa{}arasammi virattaa
+viaaraja.na.nehi vi .na hu vikiirantaa{\sd}\\
+jiivantamukkasarisaa
+accua diisanti paava.naa tuha bhattaa{\sdds{47}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\sana vi.sayarase viraktaa.h
+vikaarajananairapi na khalu vikriyamaa.naa.h{\sd}\\
+jiivanmuktasad.r"saa.h
+acyuta d.r"syante paavanaastava bhaktaa.h{\sdds{47}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\san gandhavva.na{}arasimi.na{}a
+saaricchaa.na.m sirii.na va.nasariaa.nam{\sd}\\
+.na sumara{}i tumhagahio
+sara.naaga{}asacca sa{}imao jiivagao{\sdds{48}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\sana gandharvanagarasvapna
+sad.rk.saa.naa.m "srii.naa.m vanasaritaam{\sd}\\
+na smarati tvadg.rhiita.h
+"sara.naagatasatya sadaamado jiivagaja.h{\sdds{48}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\san .na mahenti .naa.navantaa
+tara"nga.di.n.diirabubbuasaricchaaim{\sd}\\
+vihipamuhaa.na pa{}aai.m
+gha.nakanda"dikandaka{}a"dikhambhasamaaim{\sdds{49}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\sana na mahayanti j~naanavanta.h
+tara"nga.di.n.diirabudbudasad.rk.saa.ni{\sd}\\
+vidhipramukhaa.naa.m padaani
+ghanakanda"dikandakada"diistambhasamaani{\sdds{49}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\san pu"da{}iasaparasahaavaa
+purisaa ghettuu.na saami.no tuha sii"dam{\sd}\\
+.naaha .na{}asacca saghi.naa
+.na muanti kaha.m vi savvaja.nasohaddam{\sdds{50}}\par}
+\end{slokatwo}
+\longpage
+\begin{slokatwo}{0.0in}
+{\sana d.r.s.tasvaparasvabhaavaa.h
+puru.saa g.rhiitvaa svaaminastava "siilam{\sd}\\
+naatha natasatya sagh.r.naa.h
+na mu~ncanti kathamapi sarvajanasauhaardam{\sdds{50}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\san maa.namaesaamacchara
+.dambhaasuuaabha{}aamarisalohamuhaa{\sd}\\
+diisanti .na mohasuaa
+dosaa daasaa.na sacca tuha bhattaa.nam{\sdds{51}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\sana maanamader.syaamatsara
+dambhaasuuyaabhayaamar.salobhamukhaa.h{\sd}\\
+d.r"syante na mohasutaa.h
+do.saa daasaanaa.m satya tava bhaktaanaam{\sdds{51}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\san jaa.na ma{}ii iaramuhii
+kaa"do sa{}a"do vi taa.na kalivitthaaro{\sd}\\
+je tuha pa{}ammi pava.naa
+.natthi kalii .naaava{}i.na{}aravae taa.nam{\sdds{52}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\sana ye.saa.m matiritaramukhii
+kaala.h sakalopi te.saa.m kalivistaara.h{\sd}\\
+ye tava pade prava.naa.h
+naasti kalirnaagapatinagarapate te.saam{\sdds{52}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\san accaasa.n.navi.naasaa
+accua pecchanti taavae bhattaja.ne{\sd}\\
+mokkharuii.na sumagge
+muu.dhaa diaha{}arama.n.dalammi va chiddam{\sdds{53}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\sana atyaasannavinaa"saa.h
+acyuta pa"syanti taavake bhaktajane{\sd}\\
+mok.saruciinaa.m sumaarge
+muu.dhaa divasakarama.n.dala iva cchidram{\sdds{53}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\san .nitu.diadummaa.nagha.naa
+.nimmalagu.nagha.diataara{}aapabbhaaraa{\sd}\\
+bhaasantabhattijo.nhaa
+.na{}asacca phuranti .naha.nihaa tuha bhattaa{\sdds{54}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\sana nitru.titadurmaanaghanaa.h
+nirmalagu.nagha.titataarakaapraagbhaaraa.h{\sd}\\
+bhaasamaanabhaktijyotsnaa.h
+natasatya sphuranti nabhonibhaastava bhaktaa.h{\sdds{54}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\san .na hu jamavisa{}ammi ga{}ii
+.na{}asacca pa{}ambua.m tuha pava.n.naa.nam{\sd}\\
+khaliaa.na vi jahajogga.m
+sikkhaa suddhantaki"nkaraa.na va lahuii{\sdds{55}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\sana na khalu yamavi.saye gati.h
+natasatya padaambuja.m tava prapannaanaam{\sd}\\
+skhalitaanaamapi yathaayogya.m
+"sik.saa "suddhaantaki"nkaraa.naamiva laghvii{\sdds{55}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\san kammaga{}idosaduhiaa
+ka{}antabhiu.diibhua"ngida.msa.natatthaa{\sd}\\
+accanti tujjha ca"da.ne
+accua pabbha.th.thavammaharasaasaaaa{\sdds{56}}\par}
+\end{slokatwo}
+\longpage
+\begin{slokatwo}{0.0in}
+{\sana karmagatido.sadu.hkhitaa.h
+k.rtaantabhruku.tiibhuja"ngiidar"sanatrastaa.h{\sd}\\
+arcanti tava cara.nau
+acyuta prabhra.s.tamanmatharasaasvaadaa.h{\sdds{56}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\san aalagga{}i tuha cala.ne
+accua vihi.naa vi acca.naa aa{}ariaa{\sd}\\
+jaa ekkantipa{}uttaa
+sesa.m va sa{}a.m sire.na pa.dige.nhasi tam{\sdds{57}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\sana aalagati tava cara.nau
+acyuta vidhinaa.apyarcanaa.a.acaritaa{\sd}\\
+yaikaantiprayuktaa
+"se.saamiva svaya.m "sirasaa pratig.rh.naasi taam{\sdds{57}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\san tuha muhajo.nhaadaavia
+maa.nasasasiantapavahasa.m.nihabaa he{\sd}\\
+accua .na muasi bhatte
+ ka"dambago"da.nihaka.n.ta{}anta.nia"nge{\sdds{58}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\sana tava mukhajyotsnaadraavita
+maanasa"sa"sikaantapravaahasa.mnibhabaa.spaan{\sd}\\
+acyuta na mu~ncasi bhaktaan
+kadambago"danibhaka.n.takaayamaananijaa"ngaan{\sdds{58}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\san savvesu vi .nivveraa
+sara.naaga{}asacca gahiasaasa{}adhammaa{\sd}\\
+ga{}asa"ngaa tuha bhattaa
+janti tumam evva du"d"daham iarehim{\sdds{59}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\sana sarve.svapi nirvairaa.h
+"sara.naagatasatya g.rhiita"saa"svatadharmaa.h{\sd}\\
+gatasa"ngaastava bhaktaa.h
+yaanti tvaameva durlabhamitarai.h{\sdds{59}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\san ahiva{}i.na{}arinda tumam
+aasa.n.na.m vi ga{}a.na.m va sa{}i duggejjham{\sd}\\
+visa{}esu vilaggantaa
+tuurantaa vi .na lahanti .dolantama.naa{\sdds{60}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\sana ahipatinagarendra tvaam
+aasannamapi gaganamiva sadaa durgraahyam{\sd}\\
+vi.saye.su vilaganta.h
+tvaramaa.naa api na labhante .dolaayamaanamanasa.h{\sdds{60}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\san bhattaa taava{}asevaa
+rasabhariaa sa{}alarakkha.nosuarui.naa{\sd}\\
+kara.naa{}i dharanti cira.m
+ka"nkhia mokhkhaa vi accua tue .thaviaa{\sdds{61}}\par}
+\end{slokatwo}
+\longpage
+\begin{slokatwo}{0.0in}
+{\sana bhaktaastaavakasevaa
+rasabharitaa.h sakalarak.sa.notsukarucinaa{\sd}\\
+kara.naani dharanti cira.m
+kaa"nk.sitamok.saa apyacyuta tvayaa sthaapitaa.h{\sdds{61}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\san .thiragu.nagirija.niehi.m
+santaaresi .na{}asacca .ni{}abhattehim{\sd}\\
+jammaparivaa.dijalahi.m
+ja"ngama.thiraseuda.msa.nijjehi ja.ne{\sdds{62}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\sana sthiragu.nagirijanitai.h
+santaarayasi natasatya nijabhaktai.h{\sd}\\
+janmaparipaa.tijaladhi.m
+ja"ngamasthirasetudar"saniiyairjanaan{\sdds{62}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\san pasamiabhavantarabha{}aa
+patta.m patta.m hia.m ti paripecchantaa{\sd}\\
+bhaaventi tujjha bhattaa
+piaa{}ihi.m va .na{}asacca paccimadiaham{\sdds{63}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\sana pra"samitabhavaantarabhayaa.h
+praapta.m praapta.m hitamiti paripa"syanta.h{\sd}\\
+bhaavayanti tava bhaktaa.h
+priyaatithimiva natasatya pa"scimadivasam{\sdds{63}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\san pa{}a.datimirammi bhuva.ne
+pattapa.di.th.thaaviaparama.naa.napa{}iivaa{\sd}\\
+.nijjanti accua tue
+.nia.m pa{}a.m sa{}i sa{}a.mpaha.m ka{}akajjaa{\sdds{64}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\sana praka.tatimire bhuvane
+paatraprati.s.thaapitaparamaj~naanapradiipaa.h{\sd}\\
+niiyante.acyuta tvayaa
+nija.m pada.m sadaa svaya.mprabha.m k.rtakaaryaa.h{\sdds{64}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\san di.dhativvabhatti.na{}a.naa
+paripecchantaa ahinda{}ura.naaha tumam{\sd}\\
+pattaa tuha saa{}ujja.m
+panti.m puurenti pa.n.na{}indamuhaa.nam{\sdds{65}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\sana d.r.dhatiivrabhaktinayanaa.h
+paripa"syanto.ahiindrapuranaatha tvaam{\sd}\\
+praaptaastava saayujya.m
+pa"nkti.m puurayanti pannagendramukhaanaam{\sdds{65}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\san sa.m.na{}asu"daham accua
+samaahisovaa.nakamavi"dambavimuhi{}aa{\sd}\\
+sara.na.m gantuu.na tuma.m
+muttaa mu{}u{}undakhattabandhuppamuhaa{\sdds{66}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\sana sannatasulabhamacyuta
+samaadhisopaanakramavilambavimukhitaa.h{\sd}\\
+"sara.na.m gatvaa tvaa.m
+muktaa mucukundak.satrabandhupramukhaa.h{\sdds{66}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\san devaa.na pasusamaa.no
+jantuu gantuu.na deva.naaha tuha pa{}am{\sd}\\
+tehi.m cia savvehi.m
+sa.msaramaa.nehi hoi sa{}i di.n.naba"dii{\sdds{67}}\par}
+\end{slokatwo}
+\longpage
+\begin{slokatwo}{0.0in}
+{\sana devaanaa.m pa"susamaano
+janturgatvaa devanaatha tava padam{\sd}\\
+taireva sarvai.h
+sa.msaaramaa.nairbhavati sadaa dattabali.h{\sdds{67}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\san mohandhaaramaha.n.nava
+mucchiamaa{}aamahaara{}a.nipaccuuho{\sd}\\
+accua tujjha ka.dakkho
+vimuttipatthaa.napu.damapariarabandho{\sdds{68}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\sana mohaandhakaaramahaar.nava
+muurchitamaayaamahaarajanipratyuu.sa.h{\sd}\\
+acyuta tava ka.taak.so
+vimuktiprasthaanaprathamaparikarabandha.h{\sdds{68}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\san mokkhasuharukkhamuu"da.m
+mohajaraa{}uramahaarasaa{}a.napavaram{\sd}\\
+sa{}alakusalekkakhetta.m
+ki"nkarasacca tuha kitta.nam amia.niham{\sdds{69}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\sana mok.sasukhav.rk.samuula.m
+mohajaraaturamahaarasaayanapravaram{\sd}\\
+sakalaku"salaikak.setra.m
+ki"nkarasatya tava kiirtanamam.rtanibham{\sdds{69}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\san .natthi ahikkama.naaso
+viccheammi vi .na paccavaa{}apasa"ngo{\sd}\\
+sappaa vi tuha sapajjaa
+rakkha{}i accua mahattaraadu bha{}aado{\sdds{70}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\sana naastyamikramanaa"so
+vicchede.api na pratyavaayaprasa"nga.h{\sd}\\
+svalpaa.api tava saparyaa
+rak.satyacyuta mahattaraatbhayaat{\sdds{70}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\san apasaae apasa.n.naa
+tujjha pasaa{}ammi daasasacca pasa.n.naa{\sd}\\
+aarajjhaa honti pare
+ki.m tehi pasa"ngalambhiapahaavehim{\sdds{71}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\sana aprasaade aprasannaa.h
+tava prasaade daasasatya prasannaa.h{\sd}\\
+aaraadhyaa bhavanti pare
+ki.m tai.h prasa"ngalambhitaprabhaavai.h{\sdds{71}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\san iaratiasaa pasa.n.naa
+ki"nkarasacca maha ki.m .nu kaahinti hiam{\sd}\\
+.niihaaragha.nasaehi.m
+.nahu puurijja{}i kaha.m vi caa{}a{}ati.nhaa{\sdds{72}}\par}
+\end{slokatwo}
+\longpage
+\begin{slokatwo}{0.0in}
+{\sana itaratrida"saa.h prasannaa.h
+ki"nkarasatya mama ki.m nu kari.syanti hitam{\sd}\\
+niihaaraghana"satai.h
+na khalu puuryate kathamapi caatakat.r.s.naa{\sdds{72}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\san a.nuga{}asuhamiati.nhaa
+accua viisama{}i tujjha maama{}ati.nhaa{\sd}\\
+pavahesu pasariaa{}e
+aasiapavahantagha.nakivaasariaa{}e{\sdds{73}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\sana anugatasukham.rgat.r.s.naa
+acyuta vi"sraamyati tava maamakat.r.s.naa{\sd}\\
+pravaahe.su pras.rtaayaa.h
+aa"sritapravahaddhanak.rpaasarita.h{\sdds{73}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\san vialasa{}ala"ngavisame
+dhamme .na{}asacca dha{}a.nihe dhaarento{\sd}\\
+kantaarapanthao via
+kha"dantaca"da.nomhi kaa{}aravisiiranto{\sdds{74}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\sana vikalasakalaa"ngavi.samaan
+dharmaan natasatya dhvajanibhaan dhaarayan{\sd}\\
+kaantaarapaanthaka iva
+skhalaccara.no.asmi kaataravi"siiryamaa.na.h{\sdds{74}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\san .thiradhammavammatha{}iam
+adhammapava.naa.na aggakhandhapa{}uttam{\sd}\\
+agha.dantavipa.disaaram
+accua ma.m hasasi .nuu.na lacchisamakkham{\sdds{75}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\sana sthiradharmavarmasthagitam
+adharmaprava.naanaamagraskandhaprav.rttam{\sd}\\
+agha.tamaanavipratiisaaram
+acyuta maa.m hasasi nuuna.m lak.smiisamak.sam{\sdds{75}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\san tarium accua duriam
+imammi dehammi ekkadiahe vi ka{}am{\sd}\\
+kaa"do a"da.m .na sa{}a"do
+ka"du.naa{}e tujjha pu.n.napatta.m mhi imo{\sdds{76}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\sana taritumacyuta duritam
+asmin deha ekadivase.apik.rtam{\sd}\\
+kaalo.ala.m na sakala.h
+karu.naayaastava puur.napaatramasmyayam{\sdds{76}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\san accua tujjha gu.naa.na.m
+maha dosaa.na.m vi .natthi kuttha vi ga.na.naa{\sd}\\
+taha vi jao pu.dhamaa.nam
+ahia.m lii.naa.na hoi .na hu dobba"d"dam{\sdds{77}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\sana acyuta tava gu.naanaa.m
+mama do.saa.naamapi naasti kutraapi ga.nanaa{\sd}\\
+tathaapi jaya.h prathamaanaam
+adhika.m liinaanaa.m bhavati na khalu daurbalyam{\sdds{77}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\san ratti.m diaham accua
+tu.diapa.dantaa{}i aa{}udumakha.n.daa{}im{\sd}\\
+da.th.thuu.na vi dariama.na.m
+baalam e.ni.mha vi bharasu mam apamatto{\sdds{78}}\par}
+\end{slokatwo}
+\longpage
+\begin{slokatwo}{0.0in}
+{\sana raatri.m divasamacyuta
+tra.titapatantyaayurdrumakha.n.daani{\sd}\\
+d.r.s.tvaapi d.rptamanasa.m
+baalamidaaniimapi bharasva maamapramatta.h{\sdds{78}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\san .niisaasasa"nka.nijje
+dehe pa.da"dantasa"dilabindusaricche{\sd}\\
+mu.nasi .na{}asacca tu.m ma.m
+jaranta kara.ne vi diihajovva.nati.nham{\sdds{79}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\sana ni"svaasa"sa"nkaniiye
+dehe pa.talaantasalilabindusad.rk.se{\sd}\\
+jaanaasi natasatya tva.m maa.m
+jaratkara.ne.api diirghayauvanat.r.s.nam{\sdds{79}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\san amu.nia.niakaa{}avva.m
+ti"daggamu.niesu ma.m vi pa.diuu"daga{}im{\sd}\\
+ia .niasahaavavi"dia.m
+haa{}u.m daasaa.na sacca .nahu tuha juttam{\sdds{80}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\sana aj~naatanijakartavya.m
+yad.rcchaj~naate.su maamapi pratikuulagatim{\sd}\\
+iti nijasvabhaavavrii.dita.m
+haatu.m daasaanaa.m satya na khalu tava yuktam{\sdds{80}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\san koha.m ki.m kara.nijja.m
+parihara.nijja.m vi ki.mti jaa.nasi savvam{\sd}\\
+tiirasi a ta.m hia.m maha
+tiasesara ku.nasu .ni{}ahia{}a.nikkhittam{\sdds{81}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\sana ko.aha.m ki.m kara.niiya.m
+parihara.niiyamapi kimiti jaanaasi sarvam{\sd}\\
+"sakno.si ca taddhita.m mama
+trida"se"svara kuru.sva nijah.rdayanik.siptam{\sdds{81}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\san e.ni.mha uvari.m vi imo
+gu.nagahio daaruputtao va paravaso{\sd}\\
+tassa vi maha tiasesara
+tiisu vi kara.nesu hosu suhasa"nkappo{\sdds{82}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\sana idaaniimuparyapyaya.m
+gu.nag.rhiito daaruputraka iva parava"sa.h{\sd}\\
+tasyaapi mama trida"se"svara
+tri.svapi kara.ne.su bhava sukhasa"nkalpa.h{\sdds{82}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\san .niakamma.nia"dajua"dam
+accua kaa{}uu.na maha piappiavagge{\sd}\\
+kaahe ghoraka"devara
+kaaraagharakuhara.nigga{}a.m kaahisi mam{\sdds{83}}\par}
+\end{slokatwo}
+\longpage
+\begin{slokatwo}{0.0in}
+{\sana nijakarmaniga"dayuga"dam
+acyuta k.rtvaa mama priyaapriya varge{\sd}\\
+kadaa ghorakalebara
+kaaraag.rhakuharanirgata.m kari.syasi maam{\sdds{83}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\san hadde tumammi ka{}iaa
+vissamia.m bamhadhama.nimagga.nihintam{\sd}\\
+di.na{}aradi.n.naggakaram
+accua dacchihisi da{}ia.dimbha.m via mam{\sdds{84}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\sana haarde tvayi kadaa
+vi"sraanta.m brahmadhamanimaargagami.syantam{\sd}\\
+dinakaradattaagrakaram
+acyuta drak.syasi dayita.dimbhamiva maam{\sdds{84}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\san kaahe amaa.navantaa
+aggimuhaa aa{}ivaahiaa tuha purisaa{\sd}\\
+a{}i"da"nghehinti mimam
+accua tamagaha.natiu.namarukantaaram{\sdds{85}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\sana kadaa amaanavaantaa
+agnimukhaa aativaahikaastava puru.saa.h{\sd}\\
+atila"nghayi.syanti maam
+acyuta tamogahanatrigu.namaruaantaaram{\sdds{85}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\san la"nghiavira{}aasaria.m
+lambhi{}asa{}isuddhasattama{}asommata.num{\sd}\\
+ka{}abamhaala"nkaara.m
+kaahisi .na{}asacca ki"nkara.m kaahe mam{\sdds{86}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\sana la"nghitavirajaasarita.m
+lambhitasadaa"suddhasattvamayasaumyatanum{\sd}\\
+k.rtabrahmaala"nkaara.m
+kari.syasi natasatya ki"nkara.m kadaa maam{\sdds{86}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\san sa.msaarasaa{}araa{}o
+ukkhitta.m tiasa.naaha phuriaa"doam{\sd}\\
+kaahekaahisi hia{}e
+kotthuhama.nidappa.na.m va lacchipu"da{}iam{\sdds{87}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\sana sa.msaarasaagaraad
+utk.sipta.m trida"sanaatha sphuritaalokam{\sd}\\
+kadaa kari.syasi h.rdaye
+kaustubhama.nidarpa.namiva lak.smiipulakitam{\sdds{87}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\san kaahe tuha pa{}apa{}ume
+hohimi .na{}asacca ke"dikantatihuva.ne{\sd}\\
+ma{}a.nariuma{}u.dama.n.da.na
+surasariaasottasuuiamahuppavahe{\sdds{88}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\sana kadaa tava padapadme
+bhavi.syaami natasatya ke"dikraantatribhuvane{\sd}\\
+madanaripumaku.tama.n.dana
+surasaritstrotassuucitamadhupravaahe{\sdds{88}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\san uva.nisa{}aasirakusumam
+utta.mseuu.na tuha pa{}ambuajua"dam{\sd}\\
+da{}io hohimi ka{}iaa
+daaso daasaa.na sacca suurisariccho{\sdds{89}}\par}
+\end{slokatwo}
+\longpage
+\begin{slokatwo}{0.0in}
+{\sana upani.sacchira.hkusumam
+utta.msya tava padaambujayuga"dam{\sd}\\
+dayito bhavi.syaami kadaa
+daaso daasaanaa.m satya suurisad.rk.sa.h{\sdds{89}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\san a{}u.no.niuttijoggam
+oaaravihaarasaha{}aratta.nadha.niam{\sd}\\
+appasamabho{}amettam
+a.nuhohisi deva.naaha kaahe .nu mimam{\sdds{90}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\sana apunarniv.rttiyogyam
+avataaravihaarasahacaratvadhanyam{\sd}\\
+aatmasamabhogamaatram
+anubhavi.syasi devanaatha kadaa nu maam{\sdds{90}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\san ia phu.dama.noraha.m mam
+eaarisava{}a.namettasaara.m vasa{}am{\sd}\\
+ku.nasu .nia gu.naga.nehi.m
+sacca.m daasaa.na sacca sa{}i sacchando{\sdds{91}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\sana iti sphu.tamanoratha.m maam
+etaad.r"savacanamaatrasaara.m va"sagam{\sd}\\
+kuru.sva nijagu.naga.nai.h
+satya.m daasaanaa.m satya sadaa svacchanda.h{\sdds{91}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\san baa"dapavagovva tara"do
+maaruijaa{}itti saa{}ara.m tariuma.no{\sd}\\
+patthemi tumam accua
+ka"nkhi{}apa{}apa{}uma khamasu maha kaaveam{\sdds{92}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\sana baalaplavaga iva tara"do
+maarutijaatiriti saagara.m taritumanaa.h{\sd}\\
+praarthaye tvaamacyuta
+kaa"nk.sitapadapadma k.samasva mama kaapeyam{\sdds{92}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\san accua visa{}akkanta.m
+bhava.n.navaavattabhami.nibu.d.dajjantam{\sd}\\
+ja.na.nii tha.nandha{}a.m via
+mam uddhariuu.na sevasu sa{}a.m paccham{\sdds{93}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\sana acyuta vi.sayaakraanta.m
+bhavaar.navaavartabhraminimajjantam{\sd}\\
+jananii stanandhayamiva
+maamuddh.rtya sevasva svaya.m pathyam{\sdds{93}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\san kammama{}aghammatavia.m
+suhamiati.nhaahi kaahi vi ata.n.naa{}am{\sd}\\
+kaaresu .nivvua.m ma.m
+kara{}aasisirohi accua ka.dakkhehim{\sdds{94}}\par}
+\end{slokatwo}
+\longpage
+\begin{slokatwo}{0.0in}
+{\sana karmamayagharmatapta.m
+sukham.rgat.r.s.naabhi.h kaabhirapyanaardram{\sd}\\
+kaarayasva nirv.rta.m maa.m
+karakaa"si"sirairacyuta ka.taak.sai.h{\sdds{94}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\san tuha cinta.navimuhaa.na.m
+di.t.thivisaa.na.m va da.msa.naau moento{\sd}\\
+amiamuhaa.na.m via mam
+accua bhattaa.na .nesu .na{}a.naasaaram{\sdds{95}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\sana tava cintanavimukhaanaa.m
+d.r.s.tivi.saa.naamiva dar"sanaanmocayan{\sd}\\
+am.rtamukhaanaamiva maam
+acyuta bhaktaanaa.m gamaya nayanaasaaram{\sdds{95}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\san visami"diamahu.nihesu a
+ta.napa.dimesu a pa.diggahesu pa"du.thiam{\sd}\\
+amia.nihimmi va accua
+.thaavesu tumammi .nimmama.m maha hi{}a{}am{\sdds{96}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\sana vi.sami"ditamadhunibhe.su ca
+t.r.napratime.su ca pratigrahe.su pralu.thitam{\sd}\\
+am.rtanidhaavivaacyuta
+sthaapaya tvayi nirmama.m mama h.rdayam{\sdds{96}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\san .niccam imammi kiva.ne
+.nikkhiva .namanta sacca .nihisaaricche{\sd}\\
+pavahanta.nahapahaajhara
+pasamiapa.namantasa~njare tuha cala.ne{\sdds{97}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\sana nityamasmin k.rpa.ne
+nik.sipa namatsatya nidhisad.rk.sau{\sd}\\
+pravahannakhaprabhaajhara
+pra"samitapra.namatsa~njvarau tava cara.nau{\sdds{97}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\san sara.naaga{}otti ja.nie
+ja.navaae vi ja{}i accua .na rakkhasi mam{\sd}\\
+hojja khu saa{}ara ghoso
+saa{}arapu"di.nammi taarisa.m tuha va{}a.nam{\sdds{98}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\sana "sara.naagata iti janite
+janavaade.api yadyacyuta na rak.sasi maam{\sd}\\
+bhavet khalu saagaragho.sa.h
+saagarapu"dine taad.r"sa.m tava vacanam{\sdds{98}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\san .nikkhitto mhi a aga{}ii
+.nivu.nehi tumammi .naaha kaaru.niehim{\sd}\\
+te tuha da.th.thuu.na pie
+.nihua.m .na{}asacca bharasu appaa.na bharam{\sdds{99}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\sana nik.sipto.asmi caagati.h
+nipu.naistvayi naatha kaaru.nikai.h{\sd}\\
+taa.mstava d.r.s.tvaa priyaan
+nibh.rta.m natasatya bharasvaatmano bharam{\sdds{99}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\san .na{}asacca pakka.naa.nia
+ga"diacilaa{}abhama.niakumaara.m va .nivo{\sd}\\
+hojjantajovva.navahu.m
+varovva ma.m lahasu mantia.navi.n.naviam{\sdds{100}}\par}
+\end{slokatwo}
+\longpage
+\begin{slokatwo}{0.0in}
+{\sana natasatya pakka.naaniita
+ga"ditakiraatabhramanijakumaaramiva n.rpa.h{\sd}\\
+bhavi.syadyauvanavadhuu.m
+vara iva maa.m labhasva mantrijanavij~naapitam{\sdds{100}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\san ia ka{}itakkiakesari
+veantaa{}ariave"nka.desavira{}iam{\sd}\\
+suha{}am accuasa{}a{}a.m
+sahia{}ahia{}esu soha{}u samaggagu.nam{\sdds{101}}\par}
+\end{slokatwo}
+
+\begin{slokatwo}{0.0in}
+{\sana iti kavitaarkikakesari
+vedaantaacaaryave"nka.te"saviracitam{\sd}\\
+subhagamacyuta"sataka.m
+sah.rdayah.rdaye.su "sobhataa.m samagragu.nam{\sdds{101}}\par}
+\end{slokatwo}
+
+\vspace{-0.4cm}
+\begin{center}
+{\sdd}
+{\san[1.20] iti acyuta"sataka.m samaaptam}%
+{\sdd}
+\hfill\\[0.2cm]
+\begin{tabular}{@{}l@{}}
+{\san[1.20] kavitaarkikasi.mhaaya kalyaa.nagu.na"saaline{\sd}}\\[-0.1cm]
+{\san[1.20] "sriimate ve"nka.te"saaya vedaantagurave nama.h{\sdd}}\\
+\end{tabular}
+\end{center}
+\end{document}

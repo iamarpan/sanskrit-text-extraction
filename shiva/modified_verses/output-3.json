@@ -1,0 +1,301 @@
+[
+  {
+    "ref": "श्रीसदाशिवकवचस्तोत्रम्->१",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/sadAshivakavachastotram.html",
+    "original_verse": "श्रीदेव्युवाच-\nभगवन्देवदेवेश सर्वाम्नाय प्रपूजित ।\nसर्वं मे कथितं देव कवचं न प्रकाशितम्",
+    "modified_verse": "भगवन्देवदेवेश सर्वाम्नाय प्रपूजित ।\nसर्वं मे कथितं देव कवचं न प्रकाशितम्",
+    "modifications": [
+      {
+        "type": "removed_dash_prefix",
+        "removed_text": "श्रीदेव्युवाच-",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "श्रीसदाशिवकवचस्तोत्रम्->३",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/sadAshivakavachastotram.html",
+    "original_verse": "श्रीभगवानुवाच-\nप्रासादमन्त्रकवचस्य वामदेवऋषिः ।\nपन्क्तिश्छन्दः । सदाशिवो देवता ।\nसकलाभीष्टसिद्धये जपे विनियोगः ।\nशिरो मे सर्वदा पातु प्रासादाख्यः सदाशिवः ।\nषडक्षरस्वरूपो मे वदनं तु महेश्वरः",
+    "modified_verse": "प्रासादमन्त्रकवचस्य वामदेवऋषिः ।\nपन्क्तिश्छन्दः । सदाशिवो देवता ।\nसकलाभीष्टसिद्धये जपे विनियोगः ।\nशिरो मे सर्वदा पातु प्रासादाख्यः सदाशिवः ।\nषडक्षरस्वरूपो मे वदनं तु महेश्वरः",
+    "modifications": [
+      {
+        "type": "removed_dash_prefix",
+        "removed_text": "श्रीभगवानुवाच-",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "देवादिकृतं षण्मुखषट्कम्->१२१",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/ShaNmukhaShaTkamdevAdikRRitaM.html",
+    "original_verse": "देवाद्याः -\nशरणातुल मातुलगाधिपते करुणाकर कामद कामहन्तः ।\nशरकाननसम्भवचारुरुचे परिपालय तारकमारक नः",
+    "modified_verse": "शरणातुल मातुलगाधिपते करुणाकर कामद कामहन्तः ।\nशरकाननसम्भवचारुरुचे परिपालय तारकमारक नः",
+    "modifications": [
+      {
+        "type": "removed_dash_prefix",
+        "removed_text": "देवाद्याः-",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "देवादिकृतं षण्मुखषट्कम्->१२७",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/ShaNmukhaShaTkamdevAdikRRitaM.html",
+    "original_verse": "(फलम्) -\nइति कुक्कुटकेतुमनुस्मरतां पठतामपिषण्मुखषट्कमिदम् ।\nनमतामभिनन्दनमिन्दुभृतो न क्षयं कचिदस्ति शरीरिणाम्",
+    "modified_verse": "इति कुक्कुटकेतुमनुस्मरतां पठतामपिषण्मुखषट्कमिदम् ।\nनमतामभिनन्दनमिन्दुभृतो न क्षयं कचिदस्ति शरीरिणाम्",
+    "modifications": [
+      {
+        "type": "removed_dash_prefix",
+        "removed_text": "(फलम्)-",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "शिवप्रोक्तं श्रुतिसारनिरूपणम्->१३",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/shrutisAranirUpaNamshivaproktaM.html",
+    "original_verse": "(वायुश्वाहं तथा देवा एषां सन्धाविसृष्टयः)",
+    "modified_verse": "",
+    "modifications": [
+      {
+        "type": "removed_parentheses",
+        "removed_text": "(वायुश्वाहं तथा देवा एषां सन्धाविसृष्टयः)",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "शिवप्रोक्तं श्रुतिसारनिरूपणम्->३९",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/shrutisAranirUpaNamshivaproktaM.html",
+    "original_verse": "(ब्रह्म मां वेद स ब्रह्म भवत्येव सुरासुराः)",
+    "modified_verse": "",
+    "modifications": [
+      {
+        "type": "removed_parentheses",
+        "removed_text": "(ब्रह्म मां वेद स ब्रह्म भवत्येव सुरासुराः)",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "श्रीशिवाष्टमूर्तिस्तोत्रम्->४",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/shivAShTamUrtistotram.html",
+    "original_verse": "ब्रह्माच्युतादिमुकुटव्यतिषक्तपुष्प-\nमालाविलासरसतुन्दिलितारुणश्रीः ।\nभूयान्मृगाङ्ककलिकाललितावतंस-\nपादाब्जरेणुरभिवाञ्छितसिद्धये नः",
+    "modified_verse": "मालाविलासरसतुन्दिलितारुणश्रीः ।\nभूयान्मृगाङ्ककलिकाललितावतंस-\nपादाब्जरेणुरभिवाञ्छितसिद्धये नः",
+    "modifications": [
+      {
+        "type": "removed_dash_prefix",
+        "removed_text": "ब्रह्माच्युतादिमुकुटव्यतिषक्तपुष्प-",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "श्रीशिवाष्टमूर्तिस्तोत्रम्->१९",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/shivAShTamUrtistotram.html",
+    "original_verse": "संसारवाडवशिखापरिलीढगात्रा-\nन्पात्रान्सुधारसभराकुलदृक्छटानाम् ।\nत्वं चेदकारणकृपाकुलवासभूमि-\nर्भूमञ्जहासि बत कं कृपणाः श्रयन्तु",
+    "modified_verse": "न्पात्रान्सुधारसभराकुलदृक्छटानाम् ।\nत्वं चेदकारणकृपाकुलवासभूमि-\nर्भूमञ्जहासि बत कं कृपणाः श्रयन्तु",
+    "modifications": [
+      {
+        "type": "removed_dash_prefix",
+        "removed_text": "संसारवाडवशिखापरिलीढगात्रा-",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "श्रीशिवाष्टमूर्तिस्तोत्रम्->२२",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/shivAShTamUrtistotram.html",
+    "original_verse": "स्वर्गापगाच्छुरितशीतमयूखभानु-\nवर्धिष्णुगौररुचिरञ्जितरम्यमूर्तिः ।\nभूयादनङ्गदमनो दमनो रिपूणां\nनालिङ्गितार्थकरुणावरुणालयो नः",
+    "modified_verse": "वर्धिष्णुगौररुचिरञ्जितरम्यमूर्तिः ।\nभूयादनङ्गदमनो दमनो रिपूणां\nनालिङ्गितार्थकरुणावरुणालयो नः",
+    "modifications": [
+      {
+        "type": "removed_dash_prefix",
+        "removed_text": "स्वर्गापगाच्छुरितशीतमयूखभानु-",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "श्रीशिवाष्टमूर्तिस्तोत्रम्->२९",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/shivAShTamUrtistotram.html",
+    "original_verse": "जटास्खलद्देवनदीतरङ्गैऽ-\nर्भालेन्दुरश्मिच्छुरितैः सदा नः ।\nसुरासुराराधितपादपद्मः\nश्रीशङ्करस्तापमपाकरोतु",
+    "modified_verse": "र्भालेन्दुरश्मिच्छुरितैः सदा नः ।\nसुरासुराराधितपादपद्मः\nश्रीशङ्करस्तापमपाकरोतु",
+    "modifications": [
+      {
+        "type": "removed_dash_prefix",
+        "removed_text": "जटास्खलद्देवनदीतरङ्गैऽ-",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "शिवाष्टकम्->२",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/shivAShTakam6.html",
+    "original_verse": "सुतप्तचामीकरचन्द्रनील-\nपद्मप्रवालाम्बुदकान्तिवस्त्रैः ।\nसुनृत्यरङ्गेष्टवरप्रदाय\nकैवल्यनाथाय वृषध्वजाय",
+    "modified_verse": "पद्मप्रवालाम्बुदकान्तिवस्त्रैः ।\nसुनृत्यरङ्गेष्टवरप्रदाय\nकैवल्यनाथाय वृषध्वजाय",
+    "modifications": [
+      {
+        "type": "removed_dash_prefix",
+        "removed_text": "सुतप्तचामीकरचन्द्रनील-",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "शिवाष्टकम्->५",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/shivAShTakam6.html",
+    "original_verse": "सुनूपुरारञ्जितपादपद्म-\nक्षरत्सुधाभृत्यसुखप्रदाय ।\nविचित्ररत्नौघविभूषिताय\nप्रेमानमेवाद्य हरौ विधेहि",
+    "modified_verse": "क्षरत्सुधाभृत्यसुखप्रदाय ।\nविचित्ररत्नौघविभूषिताय\nप्रेमानमेवाद्य हरौ विधेहि",
+    "modifications": [
+      {
+        "type": "removed_dash_prefix",
+        "removed_text": "सुनूपुरारञ्जितपादपद्म-",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "विष्णुप्रोक्तं शिवार्चनोपदेशम् ५->३९२",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/viShNuproktaMshivArchanopadesham5.html",
+    "original_verse": "यस्येच्छातोऽस्माकमुत्पत्तिरासो-\nद्यस्येच्छातो जायते रक्षणं च ।\nयस्येच्छातो भाविनाशः स नित्यो\nभूयो भूयः पूजनीयो महेशः",
+    "modified_verse": "द्यस्येच्छातो जायते रक्षणं च ।\nयस्येच्छातो भाविनाशः स नित्यो\nभूयो भूयः पूजनीयो महेशः",
+    "modifications": [
+      {
+        "type": "removed_dash_prefix",
+        "removed_text": "यस्येच्छातोऽस्माकमुत्पत्तिरासो-",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "ईश्वरप्रोक्तं शिवार्चनमहात्मयम्->१",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/shivArchanamahAtmayamIshvaraproktaM.html",
+    "original_verse": "ईश्वरः -\nश‍ृणु वक्ष्यामि ते देवि हितमात्यन्तिकं शिवे ।\nयत्प्रोक्तं पूजनं देवि सुराणाञ्च नृणां सदा",
+    "modified_verse": "श‍ृणु वक्ष्यामि ते देवि हितमात्यन्तिकं शिवे ।\nयत्प्रोक्तं पूजनं देवि सुराणाञ्च नृणां सदा",
+    "modifications": [
+      {
+        "type": "removed_dash_prefix",
+        "removed_text": "ईश्वरः-",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "ईश्वरप्रोक्तं शिवार्चनमहात्मयम्->८५",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/shivArchanamahAtmayamIshvaraproktaM.html",
+    "original_verse": "(लोका लोक्याश्च देवेशि विधाताद्यन्तनेऽपि च)",
+    "modified_verse": "",
+    "modifications": [
+      {
+        "type": "removed_parentheses",
+        "removed_text": "(लोका लोक्याश्च देवेशि विधाताद्यन्तनेऽपि च)",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "ईश्वरप्रोक्तं शिवार्चनमहात्मयम्->९५",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/shivArchanamahAtmayamIshvaraproktaM.html",
+    "original_verse": "(कालात्मयुक्तान्यधितप्यामीशो गुणी सर्वज्ञस्सर्वभूताधिवासः)",
+    "modified_verse": "",
+    "modifications": [
+      {
+        "type": "removed_parentheses",
+        "removed_text": "(कालात्मयुक्तान्यधितप्यामीशो गुणी सर्वज्ञस्सर्वभूताधिवासः)",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "ईश्वरप्रोक्तं शिवार्चनमहात्मयम्->१०२",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/shivArchanamahAtmayamIshvaraproktaM.html",
+    "original_verse": "स्कन्दः -\nइत्युक्त्वा गिरिजां देवस्समालिङ्ग्य महेश्वरः ।\nकैलासमौलौ शिवया विजहार यथासुखम्",
+    "modified_verse": "इत्युक्त्वा गिरिजां देवस्समालिङ्ग्य महेश्वरः ।\nकैलासमौलौ शिवया विजहार यथासुखम्",
+    "modifications": [
+      {
+        "type": "removed_dash_prefix",
+        "removed_text": "स्कन्दः-",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "ईश्वरप्रोक्तं शिवार्चनमहात्मयम्->१०३",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/shivArchanamahAtmayamIshvaraproktaM.html",
+    "original_verse": "देव्युवाच -\nवस्त्राधौतविधौ सहस्रकरता पुष्पार्पणे विष्णुता\nगन्धे गन्धवता महान्नपचने बर्हिर्मुखाध्यक्षता ।\n(गन्धे गन्धवहाप्ततान्नपचने बर्हिर्मुखाध्यक्षता) ।\nपात्रे काञ्चनगर्ततास्ति भगवन्कारुण्यवारान्निधे\nशुश्रूषां करवाणि ते पशुपते स्वामिन्स्त्रिलोकीगुरो",
+    "modified_verse": "वस्त्राधौतविधौ सहस्रकरता पुष्पार्पणे विष्णुता\nगन्धे गन्धवता महान्नपचने बर्हिर्मुखाध्यक्षता ।\n(गन्धे गन्धवहाप्ततान्नपचने बर्हिर्मुखाध्यक्षता) ।\nपात्रे काञ्चनगर्ततास्ति भगवन्कारुण्यवारान्निधे\nशुश्रूषां करवाणि ते पशुपते स्वामिन्स्त्रिलोकीगुरो",
+    "modifications": [
+      {
+        "type": "removed_dash_prefix",
+        "removed_text": "देव्युवाच-",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "विश्वावसुप्रोक्तं शिवार्चनमहिमानुवर्णनम्->९३",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/vishvAvasuproktaMshivArchanamahimAnuvarNanam.html",
+    "original_verse": "(सम्पाद्य पूजा विविधैर्विधानैः कार्या प्रयत्नेन च शाङ्गलिङ्गे)",
+    "modified_verse": "",
+    "modifications": [
+      {
+        "type": "removed_parentheses",
+        "removed_text": "(सम्पाद्य पूजा विविधैर्विधानैः कार्या प्रयत्नेन च शाङ्गलिङ्गे)",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "कपिलप्रचण्डादिप्रोक्ता शिवार्चनमहिमा->४२",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/kapilaprachaNDAdiproktAshivArchanamahimA.html",
+    "original_verse": "कपिलः -\n(इन्दिरे)शरणं याहि शङ्करं लोकशङ्करम् ।\nस सर्वमङ्गलाकान्तो मङ्गलानि प्रयच्छति",
+    "modified_verse": "(इन्दिरे)शरणं याहि शङ्करं लोकशङ्करम् ।\nस सर्वमङ्गलाकान्तो मङ्गलानि प्रयच्छति",
+    "modifications": [
+      {
+        "type": "removed_dash_prefix",
+        "removed_text": "कपिलः-",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "कपिलप्रचण्डादिप्रोक्ता शिवार्चनमहिमा->७१",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/kapilaprachaNDAdiproktAshivArchanamahimA.html",
+    "original_verse": "प्रचण्डः -\nकैलासवासी भगवानेकस्तिष्ठति शङ्करः ।\nतत्पूजकानामस्माकं भयं सम्भावितं च न",
+    "modified_verse": "कैलासवासी भगवानेकस्तिष्ठति शङ्करः ।\nतत्पूजकानामस्माकं भयं सम्भावितं च न",
+    "modifications": [
+      {
+        "type": "removed_dash_prefix",
+        "removed_text": "प्रचण्डः-",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "कपिलप्रचण्डादिप्रोक्ता शिवार्चनमहिमा->१२५",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/kapilaprachaNDAdiproktAshivArchanamahimA.html",
+    "original_verse": "क्रूरः -\nमृत्युञ्जयाभ्यर्चनेन जयः खलु पदे पदे ।\nअतो जयार्थं यत्नेन यजेन्मृत्युञ्जयं प्रभुम्",
+    "modified_verse": "मृत्युञ्जयाभ्यर्चनेन जयः खलु पदे पदे ।\nअतो जयार्थं यत्नेन यजेन्मृत्युञ्जयं प्रभुम्",
+    "modifications": [
+      {
+        "type": "removed_dash_prefix",
+        "removed_text": "क्रूरः-",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "कपिलप्रचण्डादिप्रोक्ता शिवार्चनमहिमा->१३९",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/kapilaprachaNDAdiproktAshivArchanamahimA.html",
+    "original_verse": "लक्ष्मीः -\nपुनः पुनरिदं ज्ञातं शङ्कराराधनं विना ।\nसुखं नेति विशेषेण ज्ञातमत्र न संशयः",
+    "modified_verse": "पुनः पुनरिदं ज्ञातं शङ्कराराधनं विना ।\nसुखं नेति विशेषेण ज्ञातमत्र न संशयः",
+    "modifications": [
+      {
+        "type": "removed_dash_prefix",
+        "removed_text": "लक्ष्मीः-",
+        "position": "start"
+      }
+    ]
+  }
+]

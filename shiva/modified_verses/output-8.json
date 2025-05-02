@@ -1,0 +1,522 @@
+[
+  {
+    "ref": "सनन्दनप्रोक्तं शिवविद्यामहिमावर्णनम्->५",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/shivavidyAmahimAvarNanam1.html",
+    "original_verse": "सत्यव्रतः -\nसनन्दनापूर्वमिदं प्रपश्य ज्योतिः कदाचिन्न विलोकितं च ।\nन वा श्रितं किञ्चिदिदं वदाशु लोकस्य तत्त्वं विदितं त्वया तु",
+    "modified_verse": "सनन्दनापूर्वमिदं प्रपश्य ज्योतिः कदाचिन्न विलोकितं च ।\nन वा श्रितं किञ्चिदिदं वदाशु लोकस्य तत्त्वं विदितं त्वया तु",
+    "modifications": [
+      {
+        "type": "removed_dash_prefix",
+        "removed_text": "सत्यव्रतः-",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "सनन्दनप्रोक्तं शिवविद्यामहिमावर्णनम्->६",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/shivavidyAmahimAvarNanam1.html",
+    "original_verse": "सनन्दनः -\nश्रीपञ्चाक्षरविद्यया स्थिरमतिर्नित्यं शिवाराधको\nभस्मोद्धूलितविग्रहः श्रुतिलसद्भूतित्रिपुण्ड्राङ्कितः ।\nत्यक्त्वा देवमुमासहायचरणध्यानातिपूतोऽधुना\nगौरीनाथपदारविन्दभजनं कर्तुं प्रयाति ध्रुवम्",
+    "modified_verse": "श्रीपञ्चाक्षरविद्यया स्थिरमतिर्नित्यं शिवाराधको\nभस्मोद्धूलितविग्रहः श्रुतिलसद्भूतित्रिपुण्ड्राङ्कितः ।\nत्यक्त्वा देवमुमासहायचरणध्यानातिपूतोऽधुना\nगौरीनाथपदारविन्दभजनं कर्तुं प्रयाति ध्रुवम्",
+    "modifications": [
+      {
+        "type": "removed_dash_prefix",
+        "removed_text": "सनन्दनः-",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "ईश्वरप्रोक्तं २ शिवलिङ्गे पुष्पपत्रार्पणोपदेशम्->६२",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/IshvaraproktaM2shivalingepuShpapatrArpaNopadesham.html",
+    "original_verse": "गौरीयल्लकलिङ्गपूजनरतोमल्लीभिरेवांदयं-\nमल्लीभिर्नियमेन मल्लयरतो गल्लस्य वाद्यं चरन् ।\nहल्लीलास्यलयानुगौ मम कृपावल्ली प्ररोहं गता\nतस्मिन्नेव समुल्लसत्यनुदिनं सल्लापतस्तस्य हि",
+    "modified_verse": "मल्लीभिर्नियमेन मल्लयरतो गल्लस्य वाद्यं चरन् ।\nहल्लीलास्यलयानुगौ मम कृपावल्ली प्ररोहं गता\nतस्मिन्नेव समुल्लसत्यनुदिनं सल्लापतस्तस्य हि",
+    "modifications": [
+      {
+        "type": "removed_dash_prefix",
+        "removed_text": "गौरीयल्लकलिङ्गपूजनरतोमल्लीभिरेवांदयं-",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "ईश्वरप्रोक्तं २ शिवलिङ्गे पुष्पपत्रार्पणोपदेशम्->७१",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/IshvaraproktaM2shivalingepuShpapatrArpaNopadesham.html",
+    "original_verse": "बिम्बाभदाडिमकदम्बकदम्बपुष्पै-\nरम्बापतेः प्रियतमोत्तमचारुलिङ्गम् ।\nवृन्दारवृन्दवरनायकमौलिवन्द्यो\nबन्धाद्विमुक्तिमुपयाति न पापगन्धम्",
+    "modified_verse": "रम्बापतेः प्रियतमोत्तमचारुलिङ्गम् ।\nवृन्दारवृन्दवरनायकमौलिवन्द्यो\nबन्धाद्विमुक्तिमुपयाति न पापगन्धम्",
+    "modifications": [
+      {
+        "type": "removed_dash_prefix",
+        "removed_text": "बिम्बाभदाडिमकदम्बकदम्बपुष्पै-",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "ईश्वरप्रोक्तं २ शिवलिङ्गे पुष्पपत्रार्पणोपदेशम्->७९",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/IshvaraproktaM2shivalingepuShpapatrArpaNopadesham.html",
+    "original_verse": "उत्फुल्लहल्लकुसुमैर्मृगबालपाणि-\nलिङ्गार्चनेन कलयेन्न स जातु कालम् ।\nरङ्कोऽप्यसौ भवति सर्वधराधिनाथ-\nवन्द्याङ्घ्रियुग्मनखचन्द्ररुचिर्भवानि",
+    "modified_verse": "लिङ्गार्चनेन कलयेन्न स जातु कालम् ।\nरङ्कोऽप्यसौ भवति सर्वधराधिनाथ-\nवन्द्याङ्घ्रियुग्मनखचन्द्ररुचिर्भवानि",
+    "modifications": [
+      {
+        "type": "removed_dash_prefix",
+        "removed_text": "उत्फुल्लहल्लकुसुमैर्मृगबालपाणि-",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "ईश्वरप्रोक्तं शिवलिङ्गार्चनोपदेशम्->१५",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/IshvaraproktaMshivalingArchanopadesham.html",
+    "original_verse": "पार्थप्रहाराङ्कितहेमबिन्दु-\nचितं भवेन्नार्मदलिङ्गमीशे ।\nत्रिपञ्चवारं तुलया न साम्यं\nप्रयाति तद्बाण भवं प्रशस्तम्",
+    "modified_verse": "चितं भवेन्नार्मदलिङ्गमीशे ।\nत्रिपञ्चवारं तुलया न साम्यं\nप्रयाति तद्बाण भवं प्रशस्तम्",
+    "modifications": [
+      {
+        "type": "removed_dash_prefix",
+        "removed_text": "पार्थप्रहाराङ्कितहेमबिन्दु-",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "ईश्वरप्रोक्तं शिवलिङ्गार्चनविध्युपदेशम् १->१७",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/IshvaraproktaMshivalingArchanavidhyupadesham1.html",
+    "original_verse": "(तत्तन्मन्त्रेण मेधावी तल्लिङ्गैः मन्त्रैः)",
+    "modified_verse": "",
+    "modifications": [
+      {
+        "type": "removed_parentheses",
+        "removed_text": "(तत्तन्मन्त्रेण मेधावी तल्लिङ्गैः मन्त्रैः)",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "शिवढुण्ढिप्रोक्तं शिवलिङ्गार्चनमहिमकथनम्->३५",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/shivaDhuNDhiproktaMshivalingArchanamahimakathanam.html",
+    "original_verse": "शिवदुण्ढिः -\nशिवस्वरूपाणि किलामलानि लिङ्गानि सर्वाणि शिवार्चनं च ।\nलिङ्गे कृतं सर्वदमित्यवैमि लिङ्गार्चनेनापि समो न धर्मः",
+    "modified_verse": "शिवस्वरूपाणि किलामलानि लिङ्गानि सर्वाणि शिवार्चनं च ।\nलिङ्गे कृतं सर्वदमित्यवैमि लिङ्गार्चनेनापि समो न धर्मः",
+    "modifications": [
+      {
+        "type": "removed_dash_prefix",
+        "removed_text": "शिवदुण्ढिः-",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "चित्रगुप्तप्रोक्तं बिल्वमूलस्थिते शिवलिङ्गपूजामहिमकथनम्->७७",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/bilvamUlasthiteshivalingapUjAmahimakathanam.html",
+    "original_verse": "चित्रगुप्तः -\nयो बिल्वमूलस्थितलिङ्गपूजां करोति भक्त्या नवबिल्वपत्रैः ।\nतत्पुण्यराशिर्गणनामतीतः स एव कैलासपतिप्रियोऽपि",
+    "modified_verse": "यो बिल्वमूलस्थितलिङ्गपूजां करोति भक्त्या नवबिल्वपत्रैः ।\nतत्पुण्यराशिर्गणनामतीतः स एव कैलासपतिप्रियोऽपि",
+    "modifications": [
+      {
+        "type": "removed_dash_prefix",
+        "removed_text": "चित्रगुप्तः-",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "शिवरहस्यश्रवणफलकथनम्->५०",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/shivarahasyashravaNaphalakathanam.html",
+    "original_verse": "श्रीकण्ठरत्नाडिसुजम्बुकेश-\nजप्येशमध्यार्जुनकुम्भघोणे ।\nश्वेते वने ब्रह्मवने च काञ्च्यां\nश्रीकालहस्तावरुणाचले वा",
+    "modified_verse": "जप्येशमध्यार्जुनकुम्भघोणे ।\nश्वेते वने ब्रह्मवने च काञ्च्यां\nश्रीकालहस्तावरुणाचले वा",
+    "modifications": [
+      {
+        "type": "removed_dash_prefix",
+        "removed_text": "श्रीकण्ठरत्नाडिसुजम्बुकेश-",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "व्यासादिप्रोक्तं शिवरहस्यमहेतिहासमहिमवर्णनम्->१५१",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/vyAsAdiproktaMshivarahasyamahetihAsamahimavarNanam.html",
+    "original_verse": "व्यासः -\nइयं शिवकथासुधामुहुरुमामनोहारिणी\nशिवेन कथिता पुरा त्रिपुरवैरिणा सादरम् ।\nअपारसुकृतार्णवैः परमवाप भूमण्डलं\nमहाघलयकारणं करणमाशु मुक्तेः परम्",
+    "modified_verse": "इयं शिवकथासुधामुहुरुमामनोहारिणी\nशिवेन कथिता पुरा त्रिपुरवैरिणा सादरम् ।\nअपारसुकृतार्णवैः परमवाप भूमण्डलं\nमहाघलयकारणं करणमाशु मुक्तेः परम्",
+    "modifications": [
+      {
+        "type": "removed_dash_prefix",
+        "removed_text": "व्यासः-",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "व्यासादिप्रोक्तं शिवरहस्यमहेतिहासमहिमवर्णनम्->१८५",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/vyAsAdiproktaMshivarahasyamahetihAsamahimavarNanam.html",
+    "original_verse": "पिशाचाः -\nएतत्पुस्तकमादरेण लिखितं यः पूजयेत् सन्ततं\nतत्सन्तानसमृद्धिरक्षयसुखावाप्तिर्महाघक्षयः ।\nस्यादेवेति शिवप्रसाददमिदं शैवं रहस्यं परं\nश्रोतव्यं शिवपूजनादररसैर्माहेश्वरैरन्वहम्",
+    "modified_verse": "एतत्पुस्तकमादरेण लिखितं यः पूजयेत् सन्ततं\nतत्सन्तानसमृद्धिरक्षयसुखावाप्तिर्महाघक्षयः ।\nस्यादेवेति शिवप्रसाददमिदं शैवं रहस्यं परं\nश्रोतव्यं शिवपूजनादररसैर्माहेश्वरैरन्वहम्",
+    "modifications": [
+      {
+        "type": "removed_dash_prefix",
+        "removed_text": "पिशाचाः-",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "व्यासादिप्रोक्तं शिवरहस्यमहेतिहासमहिमवर्णनम्->१९९",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/vyAsAdiproktaMshivarahasyamahetihAsamahimavarNanam.html",
+    "original_verse": "ऋषयः -\nये वाञ्छन्ति शिवं शिवामितकथारूपस्फुरत्स्वर्धुनी\nनिर्धूताखिलपातकात्मकमलाः शीलाः सुशीलाः कलौ ।\nते सर्वे वयमेव सन्ततमुमाकान्तप्रसादात् परं\nसम्प्राप्यात्र शिवङ्करं शिवमिति ध्यात्वा शिवं यान्त्यपि",
+    "modified_verse": "ये वाञ्छन्ति शिवं शिवामितकथारूपस्फुरत्स्वर्धुनी\nनिर्धूताखिलपातकात्मकमलाः शीलाः सुशीलाः कलौ ।\nते सर्वे वयमेव सन्ततमुमाकान्तप्रसादात् परं\nसम्प्राप्यात्र शिवङ्करं शिवमिति ध्यात्वा शिवं यान्त्यपि",
+    "modifications": [
+      {
+        "type": "removed_dash_prefix",
+        "removed_text": "ऋषयः-",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "व्यासादिप्रोक्तं शिवरहस्यमहेतिहासमहिमवर्णनम्->२१३",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/vyAsAdiproktaMshivarahasyamahetihAsamahimavarNanam.html",
+    "original_verse": "पायादङ्कगताम्बिकाङ्कविलसत्पर्यङ्कलीलालता-\nपारानन्ददसिन्दुराननसुधादानाकरः शाङ्करः ।\nस्कन्दालोकनसादरो गिरिसुतास्मेराधरास्वाद-\nनानन्दालोलितविग्रहो मुहुरुमादिव्याङ्गसङ्गप्रियः",
+    "modified_verse": "पारानन्ददसिन्दुराननसुधादानाकरः शाङ्करः ।\nस्कन्दालोकनसादरो गिरिसुतास्मेराधरास्वाद-\nनानन्दालोलितविग्रहो मुहुरुमादिव्याङ्गसङ्गप्रियः",
+    "modifications": [
+      {
+        "type": "removed_dash_prefix",
+        "removed_text": "पायादङ्कगताम्बिकाङ्कविलसत्पर्यङ्कलीलालता-",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "व्यासादिप्रोक्तं शिवरहस्यमहेतिहासमहिमवर्णनम्->२२७",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/vyAsAdiproktaMshivarahasyamahetihAsamahimavarNanam.html",
+    "original_verse": "स्कन्दः -\nआचन्द्रार्कमिदं रहस्यमनिशं शैवं शिवार्थे मुदा\nश्रोतव्यं सुखसन्ततिप्रदमुमाकान्तप्रियं सादरम् ।\nएतत्पुस्तकदानमप्यघहरं पुण्याम्बुराशिप्रदं\nसर्वाभीष्टदमप्यतः शिवरतैः श्राव्यं श्रुतिव्याहृतम्",
+    "modified_verse": "आचन्द्रार्कमिदं रहस्यमनिशं शैवं शिवार्थे मुदा\nश्रोतव्यं सुखसन्ततिप्रदमुमाकान्तप्रियं सादरम् ।\nएतत्पुस्तकदानमप्यघहरं पुण्याम्बुराशिप्रदं\nसर्वाभीष्टदमप्यतः शिवरतैः श्राव्यं श्रुतिव्याहृतम्",
+    "modifications": [
+      {
+        "type": "removed_dash_prefix",
+        "removed_text": "स्कन्दः-",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "शिवमीडेस्तवः->४",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/shivamIDestavaH.html",
+    "original_verse": "आदित्यान्तर्यामिणमोश्वरमात्मेच्छु-\nर्गायत्र्यैवानन्यमिहान्वहमाराध्य ।\nप्राप्नोत्याराद्विष्णुपदं तच्छिवसंज्ञं\nतं चिन्मात्रं साक्षिणमेकं शिवमीडे",
+    "modified_verse": "र्गायत्र्यैवानन्यमिहान्वहमाराध्य ।\nप्राप्नोत्याराद्विष्णुपदं तच्छिवसंज्ञं\nतं चिन्मात्रं साक्षिणमेकं शिवमीडे",
+    "modifications": [
+      {
+        "type": "removed_dash_prefix",
+        "removed_text": "आदित्यान्तर्यामिणमोश्वरमात्मेच्छु-",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "शिवमहिमस्तोत्रम्->३७",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/shivamahimastotram.html",
+    "original_verse": "महादेवामेयानघगुणगणप्रामवसतन्-\nनमो भूयो भूयः पुनरपि नमस्ते पुनरपि ।\nपुराराते शम्भो पुनरपि नमस्ते शिव विभो\nनमो भूयो भूयः शिव शिव नमोऽनन्त शिव ते",
+    "modified_verse": "नमो भूयो भूयः पुनरपि नमस्ते पुनरपि ।\nपुराराते शम्भो पुनरपि नमस्ते शिव विभो\nनमो भूयो भूयः शिव शिव नमोऽनन्त शिव ते",
+    "modifications": [
+      {
+        "type": "removed_dash_prefix",
+        "removed_text": "महादेवामेयानघगुणगणप्रामवसतन्-",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "श्रीशिवभुजङ्गम् अथवा शिवस्तुतिः->४",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/shivabhujangam.html",
+    "original_verse": "शिवेशानतत्पूरुषाघोरवामा-\nदिभिः पञ्चभिर्हृन्मुखैः षड्भिरङ्गैः ।\nअनौपम्य षट्त्रिंशतं तत्त्वविद्या-\nमतीतं परं त्वां कथं वेत्ति को वा",
+    "modified_verse": "दिभिः पञ्चभिर्हृन्मुखैः षड्भिरङ्गैः ।\nअनौपम्य षट्त्रिंशतं तत्त्वविद्या-\nमतीतं परं त्वां कथं वेत्ति को वा",
+    "modifications": [
+      {
+        "type": "removed_dash_prefix",
+        "removed_text": "शिवेशानतत्पूरुषाघोरवामा-",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "श्रीशिवभुजङ्गम् अथवा शिवस्तुतिः->६",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/shivabhujangam.html",
+    "original_verse": "स्वसेवासमायातदेवासुरेन्द्रा-\nनमन्मौलिमन्दारमालाभिषिक्तम् ।\nनमस्यामि शम्भो पदाम्भोरुहं ते\nभवाम्भोधिपोतं भवानीविभाव्यम्",
+    "modified_verse": "नमन्मौलिमन्दारमालाभिषिक्तम् ।\nनमस्यामि शम्भो पदाम्भोरुहं ते\nभवाम्भोधिपोतं भवानीविभाव्यम्",
+    "modifications": [
+      {
+        "type": "removed_dash_prefix",
+        "removed_text": "स्वसेवासमायातदेवासुरेन्द्रा-",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "श्रीशिवभुजङ्गम् अथवा शिवस्तुतिः->१५",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/shivabhujangam.html",
+    "original_verse": "शिरोद्दृष्टिहृद्रोगशूलप्रमेह-\nज्वरार्शोजरायक्ष्महिक्काविषार्तान् ।\nत्वमाद्यो भिषग्भेषजं भस्म शम्भो\nत्वमुल्लाघयास्मान्वपुर्लाघवाय",
+    "modified_verse": "ज्वरार्शोजरायक्ष्महिक्काविषार्तान् ।\nत्वमाद्यो भिषग्भेषजं भस्म शम्भो\nत्वमुल्लाघयास्मान्वपुर्लाघवाय",
+    "modifications": [
+      {
+        "type": "removed_dash_prefix",
+        "removed_text": "शिरोद्दृष्टिहृद्रोगशूलप्रमेह-",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "श्रीशिवभुजङ्गम् अथवा शिवस्तुतिः->२६",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/shivabhujangam.html",
+    "original_verse": "यदापारमच्छायमस्थानमद्भि-\nर्जनैर्वा विहीनं गमिष्यामि मार्गम् ।\nतदा तं निरुन्धन्कृतान्तस्य मार्गं\nमहादेव मह्यं मनोज्ञं प्रयच्छ",
+    "modified_verse": "र्जनैर्वा विहीनं गमिष्यामि मार्गम् ।\nतदा तं निरुन्धन्कृतान्तस्य मार्गं\nमहादेव मह्यं मनोज्ञं प्रयच्छ",
+    "modifications": [
+      {
+        "type": "removed_dash_prefix",
+        "removed_text": "यदापारमच्छायमस्थानमद्भि-",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "श्रीशिवभुजङ्गम् अथवा शिवस्तुतिः->३१",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/shivabhujangam.html",
+    "original_verse": "जराजन्मगर्भाधिवासादिदुःखा-\nन्यसह्यानि जह्यां जगन्नाथ देव ।\nभवन्तं विना मे गतिर्नैव शम्भो\nदयालो न जागर्ति किं वा दया ते",
+    "modified_verse": "न्यसह्यानि जह्यां जगन्नाथ देव ।\nभवन्तं विना मे गतिर्नैव शम्भो\nदयालो न जागर्ति किं वा दया ते",
+    "modifications": [
+      {
+        "type": "removed_dash_prefix",
+        "removed_text": "जराजन्मगर्भाधिवासादिदुःखा-",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "श्रीशिवभुजङ्गम् अथवा शिवस्तुतिः->३४",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/shivabhujangam.html",
+    "original_verse": "अनुद्यल्ललाटाक्षिवह्निप्ररोहै-\nरवामस्फुरच्चारुवामोरुशोभैः ।\nअनङ्गभ्रमद्भोगिभूषाविशेषै-\nरचन्द्रार्धचूडैरलं दैवतैर्नः",
+    "modified_verse": "रवामस्फुरच्चारुवामोरुशोभैः ।\nअनङ्गभ्रमद्भोगिभूषाविशेषै-\nरचन्द्रार्धचूडैरलं दैवतैर्नः",
+    "modifications": [
+      {
+        "type": "removed_dash_prefix",
+        "removed_text": "अनुद्यल्ललाटाक्षिवह्निप्ररोहै-",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "श्रीशिवभुजङ्गम् अथवा शिवस्तुतिः->३५",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/shivabhujangam.html",
+    "original_verse": "अकण्ठेकलङ्कादनङ्गेभुजङ्गा-\nदपाणौकपालादफालेनलाक्षात् ।\nअमौळौशशाङ्कादवामेकलत्रा-\nदहं देवमन्यं न मन्ये न मन्ये",
+    "modified_verse": "दपाणौकपालादफालेनलाक्षात् ।\nअमौळौशशाङ्कादवामेकलत्रा-\nदहं देवमन्यं न मन्ये न मन्ये",
+    "modifications": [
+      {
+        "type": "removed_dash_prefix",
+        "removed_text": "अकण्ठेकलङ्कादनङ्गेभुजङ्गा-",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "चित्रगुप्तप्रोक्तमं शिवभक्त्युत्कर्षवर्णनम्->६१",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/shivabhaktyutkarShavarNanam.html",
+    "original_verse": "चित्रगुप्तः -\nश‍ृणु शाम्भवसङ्घानां वार्तां श्रोत्रमनोहराम् ।\nयद्वार्ताश्रवणेनापि शिवभक्तिर्दृढा भवेत्",
+    "modified_verse": "श‍ृणु शाम्भवसङ्घानां वार्तां श्रोत्रमनोहराम् ।\nयद्वार्ताश्रवणेनापि शिवभक्तिर्दृढा भवेत्",
+    "modifications": [
+      {
+        "type": "removed_dash_prefix",
+        "removed_text": "चित्रगुप्तः-",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "चित्रगुप्तप्रोक्तमं शिवभक्त्युत्कर्षवर्णनम्->६७",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/shivabhaktyutkarShavarNanam.html",
+    "original_verse": "(सङ्घैरप्यमिते अनुक्षणमित्यारभ्य धनैरित्यन्तं)",
+    "modified_verse": "",
+    "modifications": [
+      {
+        "type": "removed_parentheses",
+        "removed_text": "(सङ्घैरप्यमिते अनुक्षणमित्यारभ्य धनैरित्यन्तं)",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "चित्रगुप्तप्रोक्तमं शिवभक्त्युत्कर्षवर्णनम्->८९",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/shivabhaktyutkarShavarNanam.html",
+    "original_verse": "(बुद्धिः सिद्धिकरोत्तमोत्तमतमा मुक्तिप्रदानोद्यता)",
+    "modified_verse": "",
+    "modifications": [
+      {
+        "type": "removed_parentheses",
+        "removed_text": "(बुद्धिः सिद्धिकरोत्तमोत्तमतमा मुक्तिप्रदानोद्यता)",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "विष्णुप्रोक्ता शिवभक्तियाचना->५७३",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/viShNuproktAshivabhaktiyAchanA.html",
+    "original_verse": "विष्णुरुवाच -\nवरोत्तमं वरं देहि वरदोत्तम शङ्कर ।\nअचञ्चला शिवे भक्तिर्ममास्त्विति पुनः पुनः",
+    "modified_verse": "वरोत्तमं वरं देहि वरदोत्तम शङ्कर ।\nअचञ्चला शिवे भक्तिर्ममास्त्विति पुनः पुनः",
+    "modifications": [
+      {
+        "type": "removed_dash_prefix",
+        "removed_text": "विष्णुरुवाच-",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "शिवप्रोक्तं कलियुगे शिवभक्तिप्रसादवर्णनम्->२४",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/shivaproktaMkaliyugeshivabhaktiprasAdavarNanam.html",
+    "original_verse": "धीरस्तिष्यैकपुष्यत्कुपथजनिजरारोगनाशैकनश्य-\nल्लोके पुत्रकलत्रमित्रजठरीत्युष्यात्किलैवं शिवे ।\nतत्रैवं यदि चन्द्रचूडचरणध्यानेक्षणं वा मनः\nकृत्वा मृत्युकृतां तथा कलिकृतामर्तिं न विन्देन्नरः",
+    "modified_verse": "ल्लोके पुत्रकलत्रमित्रजठरीत्युष्यात्किलैवं शिवे ।\nतत्रैवं यदि चन्द्रचूडचरणध्यानेक्षणं वा मनः\nकृत्वा मृत्युकृतां तथा कलिकृतामर्तिं न विन्देन्नरः",
+    "modifications": [
+      {
+        "type": "removed_dash_prefix",
+        "removed_text": "धीरस्तिष्यैकपुष्यत्कुपथजनिजरारोगनाशैकनश्य-",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "शिवप्रोक्तं कलियुगे शिवभक्तिप्रसादवर्णनम्->२९",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/shivaproktaMkaliyugeshivabhaktiprasAdavarNanam.html",
+    "original_verse": "आशीविषोमविषविषयानुधाव-\nच्चित्तेष्वशेषहृदयोत्थितकालतिष्ये ।\nभूषाविशेषकृतशेषमहोरुहार-\nपूषाक्षमीषदपि चिन्तयते स धन्यः",
+    "modified_verse": "च्चित्तेष्वशेषहृदयोत्थितकालतिष्ये ।\nभूषाविशेषकृतशेषमहोरुहार-\nपूषाक्षमीषदपि चिन्तयते स धन्यः",
+    "modifications": [
+      {
+        "type": "removed_dash_prefix",
+        "removed_text": "आशीविषोमविषविषयानुधाव-",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "शिवभक्तिकल्पलतिकास्तोत्रम्->४",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/shivabhaktikalpalatikAstotram.html",
+    "original_verse": "दुःखानलोदरनिपातनधूर्वदेष्वे-\nष्वर्थाङ्गनासुतमुखेष्वनुराग आगाः ।\nस्यात्ते रुषे तव दयालुतया त्वदान-\nत्याद्यैर्विभो तदवधूय बिभर्षि चास्मान्",
+    "modified_verse": "ष्वर्थाङ्गनासुतमुखेष्वनुराग आगाः ।\nस्यात्ते रुषे तव दयालुतया त्वदान-\nत्याद्यैर्विभो तदवधूय बिभर्षि चास्मान्",
+    "modifications": [
+      {
+        "type": "removed_dash_prefix",
+        "removed_text": "दुःखानलोदरनिपातनधूर्वदेष्वे-",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "शिवभक्तिकल्पलतिकास्तोत्रम्->१५",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/shivabhaktikalpalatikAstotram.html",
+    "original_verse": "त्वत्संस्मृतित्वदभिधानसमीरणादि-\nसम्भावनास्पदममी मम सन्तु शोकाः ।\nमा सन्तु च त्वदनुषक्तिमुषः प्रहर्षा\nमा त्वत्पुरःस्थितिपुषेश दृशानुपश्य",
+    "modified_verse": "सम्भावनास्पदममी मम सन्तु शोकाः ।\nमा सन्तु च त्वदनुषक्तिमुषः प्रहर्षा\nमा त्वत्पुरःस्थितिपुषेश दृशानुपश्य",
+    "modifications": [
+      {
+        "type": "removed_dash_prefix",
+        "removed_text": "त्वत्संस्मृतित्वदभिधानसमीरणादि-",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "ईश्वरप्रोक्तं शिवप्रासादकरणम् २->४९",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/IshvaraproktaMshivaprAsAdakaraNam2.html",
+    "original_verse": "(विराजित वृषाधीशधूयमानपताककम्)",
+    "modified_verse": "",
+    "modifications": [
+      {
+        "type": "removed_parentheses",
+        "removed_text": "(विराजित वृषाधीशधूयमानपताककम्)",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "ईश्वरप्रोक्तं शिवप्रासादकरणम् २->५५",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/IshvaraproktaMshivaprAsAdakaraNam2.html",
+    "original_verse": "(विध्यन्तंकालमकुटे शूलेनाथ निजङ्घ्रिणा)",
+    "modified_verse": "",
+    "modifications": [
+      {
+        "type": "removed_parentheses",
+        "removed_text": "(विध्यन्तंकालमकुटे शूलेनाथ निजङ्घ्रिणा)",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "चित्रकेतुकृता शिवप्रार्थना->११८",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/chitraketukRRitAshivaprArthanA.html",
+    "original_verse": "जिह्वाकृत्यमुमासहायचरणाम्भोजार्चनाराधन-\nध्यानानुस्मरणप्रभावकथनं तन्नामसङ्कीर्तनम् ।\nतद्गौरीरमणोपहारसुरसव्याख्यानमप्यादरात्\nतत्पूजाकरणानुवादनमपि श्रीनीलकण्ठ ध्रुवम्",
+    "modified_verse": "ध्यानानुस्मरणप्रभावकथनं तन्नामसङ्कीर्तनम् ।\nतद्गौरीरमणोपहारसुरसव्याख्यानमप्यादरात्\nतत्पूजाकरणानुवादनमपि श्रीनीलकण्ठ ध्रुवम्",
+    "modifications": [
+      {
+        "type": "removed_dash_prefix",
+        "removed_text": "जिह्वाकृत्यमुमासहायचरणाम्भोजार्चनाराधन-",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "चित्रकेतुकृता शिवप्रार्थना->११९",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/chitraketukRRitAshivaprArthanA.html",
+    "original_verse": "नासाकृत्यमुमासहायचरणाम्भोजार्चितात्युल्लस-\nद्बिल्वीपल्लवफुल्लनीलकमलामोदग्रहस्तत्करः ।\nउग्रानुग्रहतः समग्रत इति ज्ञेयो महानुग्रहो\nहाराहारसुगन्धसुन्दरमिदं नासापुटं धूर्जटे",
+    "modified_verse": "द्बिल्वीपल्लवफुल्लनीलकमलामोदग्रहस्तत्करः ।\nउग्रानुग्रहतः समग्रत इति ज्ञेयो महानुग्रहो\nहाराहारसुगन्धसुन्दरमिदं नासापुटं धूर्जटे",
+    "modifications": [
+      {
+        "type": "removed_dash_prefix",
+        "removed_text": "नासाकृत्यमुमासहायचरणाम्भोजार्चितात्युल्लस-",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "शिवपूजास्तवः->१",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/shivapUjAstavaH.html",
+    "original_verse": "प्रातश्शङ्करचिन्तनस्नपनसंसेकासुसंरोधनै-\nस्सन्ध्यासंस्मृतिमार्जनाघशमनोपस्थानसन्तर्पणैः ।\nद्वारस्यार्चनयागधामगतविघ्नोद्वासनाद्यैः प्रभो-\nर्यश्श्रीमान्यजनं करोति भवतस्तस्यैव सिद्धिद्वयम्",
+    "modified_verse": "स्सन्ध्यासंस्मृतिमार्जनाघशमनोपस्थानसन्तर्पणैः ।\nद्वारस्यार्चनयागधामगतविघ्नोद्वासनाद्यैः प्रभो-\nर्यश्श्रीमान्यजनं करोति भवतस्तस्यैव सिद्धिद्वयम्",
+    "modifications": [
+      {
+        "type": "removed_dash_prefix",
+        "removed_text": "प्रातश्शङ्करचिन्तनस्नपनसंसेकासुसंरोधनै-",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "शिवपूजास्तवः->१६",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/shivapUjAstavaH.html",
+    "original_verse": "वामादिशक्तिगतकेसरकर्णिकाढ्य-\nमर्कादिबिम्बसहितं वरयोगपीठम् ।\nतत्र स्थितं हृदयमन्त्रगतात्ममन्त्र\nमूर्तिं च बिन्दुगतमीशमहं नमामि",
+    "modified_verse": "मर्कादिबिम्बसहितं वरयोगपीठम् ।\nतत्र स्थितं हृदयमन्त्रगतात्ममन्त्र\nमूर्तिं च बिन्दुगतमीशमहं नमामि",
+    "modifications": [
+      {
+        "type": "removed_dash_prefix",
+        "removed_text": "वामादिशक्तिगतकेसरकर्णिकाढ्य-",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "शिवपूजास्तवः->२१",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/shivapUjAstavaH.html",
+    "original_verse": "श्वेतासृक्कृष्णपीतस्फटिकशशिसुवर्णारुणालयग्निवर्णै-\nर्ब्रह्माङ्गैर्व्यक्तमूर्तिर्भवहरशिवसंयोगतस्स्फाटिकाभः ।\nऐक्यान्मन्त्रार्थयोरित्यखिलशिवमतेष्वाह सर्वार्थहेतु-\nर्वक्त्राणां वर्णभेदश्चिदचिदधिपतेश्चित्रमेतत्स्वरूपम्",
+    "modified_verse": "र्ब्रह्माङ्गैर्व्यक्तमूर्तिर्भवहरशिवसंयोगतस्स्फाटिकाभः ।\nऐक्यान्मन्त्रार्थयोरित्यखिलशिवमतेष्वाह सर्वार्थहेतु-\nर्वक्त्राणां वर्णभेदश्चिदचिदधिपतेश्चित्रमेतत्स्वरूपम्",
+    "modifications": [
+      {
+        "type": "removed_dash_prefix",
+        "removed_text": "श्वेतासृक्कृष्णपीतस्फटिकशशिसुवर्णारुणालयग्निवर्णै-",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "शिवपूजास्तवः->३३",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/shivapUjAstavaH.html",
+    "original_verse": "आदिपञ्चममृत्युभूषणचन्द्रखण्डगुणाश्रदृ-\nग्भानुगध्वनिसीरभास्करसेन्दुवृत्तहलाकृतिः ।\nसांशुमत्रिशिखद्विबिम्बगतद्विकुब्जग उन्मना\n(सांशुमत्त्रिशिखद्विबिम्बगतद्विकुब्जग)\nपातु वस्सकलापरस्सकलाकलस्सकलस्शिवः",
+    "modified_verse": "ग्भानुगध्वनिसीरभास्करसेन्दुवृत्तहलाकृतिः ।\nसांशुमत्रिशिखद्विबिम्बगतद्विकुब्जग उन्मना\n(सांशुमत्त्रिशिखद्विबिम्बगतद्विकुब्जग)\nपातु वस्सकलापरस्सकलाकलस्सकलस्शिवः",
+    "modifications": [
+      {
+        "type": "removed_dash_prefix",
+        "removed_text": "आदिपञ्चममृत्युभूषणचन्द्रखण्डगुणाश्रदृ-",
+        "position": "start"
+      }
+    ]
+  }
+]

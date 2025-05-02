@@ -1,0 +1,366 @@
+[
+  {
+    "ref": "ईश्वरप्रोक्तं शतरुद्रीयमाहात्म्यम्->१३",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/IshvaraproktaMshatarudrIyamAhAtmyam.html",
+    "original_verse": "(येनाधीता महाविद्या शतरुद्रीयनामिका)",
+    "modified_verse": "",
+    "modifications": [
+      {
+        "type": "removed_parentheses",
+        "removed_text": "(येनाधीता महाविद्या शतरुद्रीयनामिका)",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "ईश्वरप्रोक्तं शतरुद्रीयमाहात्म्यम्->३५",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/IshvaraproktaMshatarudrIyamAhAtmyam.html",
+    "original_verse": "(इदमेव परा दीक्षा इयमेव परागतिः)",
+    "modified_verse": "",
+    "modifications": [
+      {
+        "type": "removed_parentheses",
+        "removed_text": "(इदमेव परा दीक्षा इयमेव परागतिः)",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "ईश्वरप्रोक्तं शतरुद्रीयमाहात्म्यम्->४४",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/IshvaraproktaMshatarudrIyamAhAtmyam.html",
+    "original_verse": "(या गतिर्भविता नॄणां शतरुद्रीयजापिनाम्)",
+    "modified_verse": "",
+    "modifications": [
+      {
+        "type": "removed_parentheses",
+        "removed_text": "(या गतिर्भविता नॄणां शतरुद्रीयजापिनाम्)",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "ईश्वरप्रोक्तं शतरुद्रीयमाहात्म्यम्->४६",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/IshvaraproktaMshatarudrIyamAhAtmyam.html",
+    "original_verse": "(प्रश्नेऽस्मिन् शतरुद्रीयमन्त्रास्तिष्ठन्ति सिद्धिदाः)",
+    "modified_verse": "",
+    "modifications": [
+      {
+        "type": "removed_parentheses",
+        "removed_text": "(प्रश्नेऽस्मिन् शतरुद्रीयमन्त्रास्तिष्ठन्ति सिद्धिदाः)",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "स्कन्दप्रोक्तं कैलासे शङ्करालयवर्णनम्->४०",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/skandaproktaMkailAseshankarAlayavarNanam.html",
+    "original_verse": "परिमलमिलदालीफुल्लमल्लीकवल्ली-\nचलदनिलकुलायोड्डीनपत्राण्डजैश्च ।\nमधुरवरसुजाजीमुल्लि धम्मिल्लभल्ली-\nकृतसुमशरवल्लीलीलयामास शम्भुः",
+    "modified_verse": "चलदनिलकुलायोड्डीनपत्राण्डजैश्च ।\nमधुरवरसुजाजीमुल्लि धम्मिल्लभल्ली-\nकृतसुमशरवल्लीलीलयामास शम्भुः",
+    "modifications": [
+      {
+        "type": "removed_dash_prefix",
+        "removed_text": "परिमलमिलदालीफुल्लमल्लीकवल्ली-",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "स्कन्दप्रोक्तं कैलासे शङ्करालयवर्णनम्->४०",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/skandaproktaMkailAseshankarAlayavarNanam.html",
+    "original_verse": "परिमलमिलदालीफुल्लमल्लीकवल्ली-\nचलदनिलकुलायोड्डीनपत्राण्डजैश्च ।\nमधुरवरसुजाजीमुल्लि धम्मिल्लभल्ली-\nकृतसुमशरवल्लीलीलयामास शम्भुः",
+    "modified_verse": "चलदनिलकुलायोड्डीनपत्राण्डजैश्च ।\nमधुरवरसुजाजीमुल्लि धम्मिल्लभल्ली-\nकृतसुमशरवल्लीलीलयामास शम्भुः",
+    "modifications": [
+      {
+        "type": "removed_dash_prefix",
+        "removed_text": "परिमलमिलदालीफुल्लमल्लीकवल्ली-",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "रिटिविरचितं शङ्करस्तोत्रम्->२१",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/riTivirachitaMshankarastotraM.html",
+    "original_verse": "(विश्वनाथ मम नाथ पाहि मां माम न नाथो यस्येति व्युत्पत्तिः)",
+    "modified_verse": "",
+    "modifications": [
+      {
+        "type": "removed_parentheses",
+        "removed_text": "(विश्वनाथ मम नाथ पाहि मां माम न नाथो यस्येति व्युत्पत्तिः)",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "श्रीशङ्करप्रपत्तिस्तोत्रम्->१८२",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/shankaraprapattistotram.html",
+    "original_verse": "यन्नामसंसारसमुद्रमुद्रा-\nविद्रावकं सर्वभयापहारि ।\nतं देवमीशं शरणं व्रजामि\nब्रह्मेन्द्रविष्ण्वादिसुरैकवन्द्यम्",
+    "modified_verse": "विद्रावकं सर्वभयापहारि ।\nतं देवमीशं शरणं व्रजामि\nब्रह्मेन्द्रविष्ण्वादिसुरैकवन्द्यम्",
+    "modifications": [
+      {
+        "type": "removed_dash_prefix",
+        "removed_text": "यन्नामसंसारसमुद्रमुद्रा-",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "श्रीशङ्करकवचम्->११",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/shankarakavacham.html",
+    "original_verse": "मार्कण्डेयः -\nत्वं कृष्ण कमलाकान्तः परमात्मा जगद्गुरुः ।\nभवत्पूज्यः कथं शम्भुरेतत्सर्वं वदस्व मे",
+    "modified_verse": "त्वं कृष्ण कमलाकान्तः परमात्मा जगद्गुरुः ।\nभवत्पूज्यः कथं शम्भुरेतत्सर्वं वदस्व मे",
+    "modifications": [
+      {
+        "type": "removed_dash_prefix",
+        "removed_text": "मार्कण्डेयः-",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "श्रीव्याघ्रालयेशशतकम्->५३",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/vyAghrAlayeshashatakam.html",
+    "original_verse": "इन्द्रोपेन्द्रादिवृन्दारकनिकरकिरीटाग्ररत्नारुणाना-\nमिन्दुप्रायत्वदा ये नतिषु सुषमया सुन्दरास्ते ममान्ध्यम् ।\nसन्द्राव्य व्याघ्रगेहेश्वरचरणनखाः सन्ततं भान्तु भासां\nसन्दोहेन प्रदीपा इव हृदि महितस्नेहयोगेन हृद्ये",
+    "modified_verse": "मिन्दुप्रायत्वदा ये नतिषु सुषमया सुन्दरास्ते ममान्ध्यम् ।\nसन्द्राव्य व्याघ्रगेहेश्वरचरणनखाः सन्ततं भान्तु भासां\nसन्दोहेन प्रदीपा इव हृदि महितस्नेहयोगेन हृद्ये",
+    "modifications": [
+      {
+        "type": "removed_dash_prefix",
+        "removed_text": "इन्द्रोपेन्द्रादिवृन्दारकनिकरकिरीटाग्ररत्नारुणाना-",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "श्रीव्याघ्रालयेशशतकम्->६२",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/vyAghrAlayeshashatakam.html",
+    "original_verse": "स्थूलस्थूणर्द्धिकूलङ्कषघनसुषमानायतानात्तशुम्भ-\nच्छूलश्रेष्ठासिटङ्काभयवरमृगरुद्राक्षभिक्षाकपालान् ।\nलोलाँल्लोकैकपालानहिकटकधरानाकृतास्थ्यङ्गुलीयान्\nव्यालोकेऽन्तर्बलिष्ठान् व्ययजितबहुदान् व्याघ्रगेहेशबाहून्",
+    "modified_verse": "च्छूलश्रेष्ठासिटङ्काभयवरमृगरुद्राक्षभिक्षाकपालान् ।\nलोलाँल्लोकैकपालानहिकटकधरानाकृतास्थ्यङ्गुलीयान्\nव्यालोकेऽन्तर्बलिष्ठान् व्ययजितबहुदान् व्याघ्रगेहेशबाहून्",
+    "modifications": [
+      {
+        "type": "removed_dash_prefix",
+        "removed_text": "स्थूलस्थूणर्द्धिकूलङ्कषघनसुषमानायतानात्तशुम्भ-",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "श्रीव्याघ्रालयेशशतकम्->७३",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/vyAghrAlayeshashatakam.html",
+    "original_verse": "दर्पान्धाबन्धसर्पप्रवरनिकरशूत्कारवातौघघूर्ण-\nत्कल्पान्ताम्भोधिकल्पद्युसरिदुदकसङ्घोषसम्पूर्णगर्भम् ।\nकोटिश्लिष्टान्तरिक्षं विविधविधिशिरोमुण्डकोटीकुटीरं\nकोटीरं व्याघ्रगेहेशितुरतिरुचिरं चिन्तयामीन्दुचिह्नम्",
+    "modified_verse": "त्कल्पान्ताम्भोधिकल्पद्युसरिदुदकसङ्घोषसम्पूर्णगर्भम् ।\nकोटिश्लिष्टान्तरिक्षं विविधविधिशिरोमुण्डकोटीकुटीरं\nकोटीरं व्याघ्रगेहेशितुरतिरुचिरं चिन्तयामीन्दुचिह्नम्",
+    "modifications": [
+      {
+        "type": "removed_dash_prefix",
+        "removed_text": "दर्पान्धाबन्धसर्पप्रवरनिकरशूत्कारवातौघघूर्ण-",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "वैद्यनाथमहिमावर्णनम्->१",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/vaidyanAthamahimAvarNanam.html",
+    "original_verse": "ईश्वरः -\nश्रृणु त्वमगजे पुण्यां मम भक्तस्य सत्कथाम् ।\nभक्तभक्तं च मां विद्धि भाववश्योऽस्मि शङ्करि",
+    "modified_verse": "श्रृणु त्वमगजे पुण्यां मम भक्तस्य सत्कथाम् ।\nभक्तभक्तं च मां विद्धि भाववश्योऽस्मि शङ्करि",
+    "modifications": [
+      {
+        "type": "removed_dash_prefix",
+        "removed_text": "ईश्वरः-",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "श्रीवेमुलवाडराजराजेश्वरसुप्रभातस्तोत्रम्->३",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/vemulavADarAjarAjeshvarasuprabhAtastotram.html",
+    "original_verse": "शेफालिकावकुलवञ्जुलकुन्दजाती\\-\nपुन्नागचम्पककदम्बसरोजगन्धैः ।\nरावाति शीतलपयःकणपूतवातः\nलेम्बालवाटिकविभो तव  सुप्रभातम्",
+    "modified_verse": "पुन्नागचम्पककदम्बसरोजगन्धैः ।\nरावाति शीतलपयःकणपूतवातः\nलेम्बालवाटिकविभो तव  सुप्रभातम्",
+    "modifications": [
+      {
+        "type": "removed_dash_prefix",
+        "removed_text": "शेफालिकावकुलवञ्जुलकुन्दजाती\\-",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "श्रीवेमुलवाडराजराजेश्वरसुप्रभातस्तोत्रम्->७",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/vemulavADarAjarAjeshvarasuprabhAtastotram.html",
+    "original_verse": "केदारश्रीगिरिचिदम्बरसेतुबन्ध\\-\nवाराणसीपशुपतीश्वरधेनुकर्ण ।\nतीर्थेषु मोदमनवाप्य त्वमागतोऽत्र\nलेम्बालवाटिकविभो तव सुप्रभातम्",
+    "modified_verse": "वाराणसीपशुपतीश्वरधेनुकर्ण ।\nतीर्थेषु मोदमनवाप्य त्वमागतोऽत्र\nलेम्बालवाटिकविभो तव सुप्रभातम्",
+    "modifications": [
+      {
+        "type": "removed_dash_prefix",
+        "removed_text": "केदारश्रीगिरिचिदम्बरसेतुबन्ध\\-",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "श्रीवेमुलवाडराजराजेश्वरसुप्रभातस्तोत्रम्->१५",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/vemulavADarAjarAjeshvarasuprabhAtastotram.html",
+    "original_verse": "एलालवङ्गयुगपत्रकनागवल्ली-\nखर्जूरपूगकदलीपनसादिरम्य- ।\nमाराममर्चयितुमाह्वयतीव भाति\nलेम्बालवाटिकविभो  तव  सुप्रभातम्",
+    "modified_verse": "खर्जूरपूगकदलीपनसादिरम्य- ।\nमाराममर्चयितुमाह्वयतीव भाति\nलेम्बालवाटिकविभो  तव  सुप्रभातम्",
+    "modifications": [
+      {
+        "type": "removed_dash_prefix",
+        "removed_text": "एलालवङ्गयुगपत्रकनागवल्ली-",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "स्कन्दप्रोक्तं वेदरहस्यकथनम्->२९",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/vedarahasyakathanamskandaproktaM.html",
+    "original_verse": "(सङ्गवानिव विश्वेशोऽसङ्गस्सर्वान्तरङ्गकः)",
+    "modified_verse": "",
+    "modifications": [
+      {
+        "type": "removed_parentheses",
+        "removed_text": "(सङ्गवानिव विश्वेशोऽसङ्गस्सर्वान्तरङ्गकः)",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "स्कन्दप्रोक्तं वेदरहस्यकथनम्->४४",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/vedarahasyakathanamskandaproktaM.html",
+    "original_verse": "(वह्निर्वायुर्जलं क्ष्मा च वियदेतद्महेश्वरः)",
+    "modified_verse": "",
+    "modifications": [
+      {
+        "type": "removed_parentheses",
+        "removed_text": "(वह्निर्वायुर्जलं क्ष्मा च वियदेतद्महेश्वरः)",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "अगस्त्यकृतवेदपादस्तवः->४",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/vedapAdastavaHagastyakRRita.html",
+    "original_verse": "अगस्त्यः -\nभर्गो देवस्य सवितुर्वरेण्यमिह धीमहि ।\nस भर्गो भगवान् शम्भुः धियो यो नः प्रचोदयात्",
+    "modified_verse": "भर्गो देवस्य सवितुर्वरेण्यमिह धीमहि ।\nस भर्गो भगवान् शम्भुः धियो यो नः प्रचोदयात्",
+    "modifications": [
+      {
+        "type": "removed_dash_prefix",
+        "removed_text": "अगस्त्यः-",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "अगस्त्यकृतवेदपादस्तवः->१३४",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/vedapAdastavaHagastyakRRita.html",
+    "original_verse": "फलं -\nइति स्तुतो महादेवो वरान् दत्वा तदीप्सितान् ।\nपुनर्वरान्तरं दातुमुवाच वचनं मुदा",
+    "modified_verse": "इति स्तुतो महादेवो वरान् दत्वा तदीप्सितान् ।\nपुनर्वरान्तरं दातुमुवाच वचनं मुदा",
+    "modifications": [
+      {
+        "type": "removed_dash_prefix",
+        "removed_text": "फलं-",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "वीरभद्रेण दक्षाध्वरध्वंसकथनम्->११०",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/vIrabhadreNadakShAdhvaradhvaMsakathanam.html",
+    "original_verse": "कोदण्डदण्डोद्भवबाणकृत्त-\nवेतण्डशुण्डारदखण्डसंसृता ।\nसुरोरुमुण्डाजकषण्डमण्डिता\nतदा गणेन्द्रैः प्रबभौ रणावनिः",
+    "modified_verse": "वेतण्डशुण्डारदखण्डसंसृता ।\nसुरोरुमुण्डाजकषण्डमण्डिता\nतदा गणेन्द्रैः प्रबभौ रणावनिः",
+    "modifications": [
+      {
+        "type": "removed_dash_prefix",
+        "removed_text": "कोदण्डदण्डोद्भवबाणकृत्त-",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "वीरभद्रेण दक्षाध्वरध्वंसकथनम्->११२",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/vIrabhadreNadakShAdhvaradhvaMsakathanam.html",
+    "original_verse": "तुरङ्गमातङ्गशताङ्गसङ्घै-\nर्गणासिविद्योतितशस्त्रजालैः ।\nसमावृतं तत्तुमुलं विरेजे\nसुरोरुकोलाहलजातसम्भ्रमम्",
+    "modified_verse": "र्गणासिविद्योतितशस्त्रजालैः ।\nसमावृतं तत्तुमुलं विरेजे\nसुरोरुकोलाहलजातसम्भ्रमम्",
+    "modifications": [
+      {
+        "type": "removed_dash_prefix",
+        "removed_text": "तुरङ्गमातङ्गशताङ्गसङ्घै-",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "वीरभद्रेण दक्षाध्वरध्वंसकथनम्->१२५",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/vIrabhadreNadakShAdhvaradhvaMsakathanam.html",
+    "original_verse": "तुरङ्गमातङ्गनरोत्तमाङ्गै-\nस्तस्तार विस्तारितशस्त्रवर्यैः ।\nते भिन्नमर्मदरिताश्च विवर्मिणोऽत्र\nवैवर्ण्यमापुरमरा गणशस्त्रघातैः",
+    "modified_verse": "स्तस्तार विस्तारितशस्त्रवर्यैः ।\nते भिन्नमर्मदरिताश्च विवर्मिणोऽत्र\nवैवर्ण्यमापुरमरा गणशस्त्रघातैः",
+    "modifications": [
+      {
+        "type": "removed_dash_prefix",
+        "removed_text": "तुरङ्गमातङ्गनरोत्तमाङ्गै-",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "वीरभद्रेण दक्षाध्वरध्वंसकथनम्->१३४",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/vIrabhadreNadakShAdhvaradhvaMsakathanam.html",
+    "original_verse": "निर्यत्सुमस्तिष्कसुशुक्ललोहितै-\nर्व्यसून् वसून् तत्र हतान् प्रचक्रुः ।\nते विश्वदेवाश्वरथेषु वाजिनो\nनिजघ्निरे तत्र गदाभिघातैः",
+    "modified_verse": "र्व्यसून् वसून् तत्र हतान् प्रचक्रुः ।\nते विश्वदेवाश्वरथेषु वाजिनो\nनिजघ्निरे तत्र गदाभिघातैः",
+    "modifications": [
+      {
+        "type": "removed_dash_prefix",
+        "removed_text": "निर्यत्सुमस्तिष्कसुशुक्ललोहितै-",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "वीरभद्रेण दक्षाध्वरध्वंसकथनम्->१३६",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/vIrabhadreNadakShAdhvaradhvaMsakathanam.html",
+    "original_verse": "रथसारथिवाजियोक्त्रछत्रा-\nण्यपजह्नुर्गणापा धनाधिपस्य ।\nगहनं विविशुः सुरास्तु शम्भोः\nस्वगणैरुज्झितवाहनास्त्रवेषाः",
+    "modified_verse": "ण्यपजह्नुर्गणापा धनाधिपस्य ।\nगहनं विविशुः सुरास्तु शम्भोः\nस्वगणैरुज्झितवाहनास्त्रवेषाः",
+    "modifications": [
+      {
+        "type": "removed_dash_prefix",
+        "removed_text": "रथसारथिवाजियोक्त्रछत्रा-",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "वीरभद्रेण दक्षाध्वरध्वंसकथनम्->१५०",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/vIrabhadreNadakShAdhvaradhvaMsakathanam.html",
+    "original_verse": "कुथाङ्कुशपदाहतिप्रबलमांससम्पर्कत-\nस्खलद्गणशरारवैर्मृतिमवापुरेवं सुराः ।\nत्रिदशा विदशां दशामवापुरेवं\nगणशस्त्रैर्निहताश्च कान्दिशीकाः",
+    "modified_verse": "स्खलद्गणशरारवैर्मृतिमवापुरेवं सुराः ।\nत्रिदशा विदशां दशामवापुरेवं\nगणशस्त्रैर्निहताश्च कान्दिशीकाः",
+    "modifications": [
+      {
+        "type": "removed_dash_prefix",
+        "removed_text": "कुथाङ्कुशपदाहतिप्रबलमांससम्पर्कत-",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "वीरभद्रेण दक्षाध्वरध्वंसकथनम्->१५३",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/vIrabhadreNadakShAdhvaradhvaMsakathanam.html",
+    "original_verse": "ध्वस्ताक्षसत्सारथिसत्पताका-\nसुछत्रहीनान्निपपात माधवः ।\nस्वकां स्त्रियमालिलिङ्गिषु-\nरभ्युत्थो दक्षयुतः स वासवः",
+    "modified_verse": "सुछत्रहीनान्निपपात माधवः ।\nस्वकां स्त्रियमालिलिङ्गिषु-\nरभ्युत्थो दक्षयुतः स वासवः",
+    "modifications": [
+      {
+        "type": "removed_dash_prefix",
+        "removed_text": "ध्वस्ताक्षसत्सारथिसत्पताका-",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "श्रीवीरभद्रभुजङ्गप्रयातस्तोत्रम्->१४",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/vIrabhadrabhujangaprayAtastotram.html",
+    "original_verse": "गलासक्तरुद्राक्षमालाविराज-\nद्विभूतित्रिपुण्ड्राङ्कभालप्रदेशः ।\nसदा शैवपञ्चाक्षरीमन्त्रजापी\nभवे भक्तवर्यः स्मरन् सिद्धिमेति",
+    "modified_verse": "द्विभूतित्रिपुण्ड्राङ्कभालप्रदेशः ।\nसदा शैवपञ्चाक्षरीमन्त्रजापी\nभवे भक्तवर्यः स्मरन् सिद्धिमेति",
+    "modifications": [
+      {
+        "type": "removed_dash_prefix",
+        "removed_text": "गलासक्तरुद्राक्षमालाविराज-",
+        "position": "start"
+      }
+    ]
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "ref": "देवैः कृतं शिवस्तोत्रम्->७९",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/devaiHkRRitaMshivastotram.html",
+    "original_verse": "करुणापारावार-\nस्त्वमतो हर सुरवर दुःखम् ।\nगिरीश महापज्जलधे-\nरस्मानुद्धर धीर कृपाजलधे",
+    "modified_verse": "स्त्वमतो हर सुरवर दुःखम् ।\nगिरीश महापज्जलधे-\nरस्मानुद्धर धीर कृपाजलधे",
+    "modifications": [
+      {
+        "type": "removed_dash_prefix",
+        "removed_text": "करुणापारावार-",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "श्रीशिवस्तोत्रम् ११->१",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/shivastotram11.html",
+    "original_verse": "अमरतटिनीतरङ्गमरीचिका-\nचयक्रमपाटलीभवत्कचकलाप ।\nसमराङ्गणविवर्जितमरुद्द्विषत्कोप\nकमलसम्भवमुख्यगणविनुतबहुरूप",
+    "modified_verse": "चयक्रमपाटलीभवत्कचकलाप ।\nसमराङ्गणविवर्जितमरुद्द्विषत्कोप\nकमलसम्भवमुख्यगणविनुतबहुरूप",
+    "modifications": [
+      {
+        "type": "removed_dash_prefix",
+        "removed_text": "अमरतटिनीतरङ्गमरीचिका-",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "श्रीशिवस्तोत्रम् ११->२",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/shivastotram11.html",
+    "original_verse": "भूधरतनूजापयोधरतटीगन्ध-\nमाधुर्यमाधुर्यसाधुवचन ।\nश्रीधराशिवकलानाथराजत्कलाश्रीधरा-\nविनिभरा(ऽऽविर्जला)म्भोधरसमानगल (?)",
+    "modified_verse": "माधुर्यमाधुर्यसाधुवचन ।\nश्रीधराशिवकलानाथराजत्कलाश्रीधरा-\nविनिभरा(ऽऽविर्जला)म्भोधरसमानगल (?)",
+    "modifications": [
+      {
+        "type": "removed_dash_prefix",
+        "removed_text": "भूधरतनूजापयोधरतटीगन्ध-",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "श्रीशिवस्तोत्रम् ११->३",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/shivastotram11.html",
+    "original_verse": "भक्तजनपालनव्यक्तकारुण्यरस-\nचित्तविपुलकटाक्षश्रुतिनियुक्त ।\nमुक्तामणीमहास्रक्ततोद्यद्देह-\nदिक्ताण्डवोत्सव सक्तचतुराङ्ग (?)",
+    "modified_verse": "चित्तविपुलकटाक्षश्रुतिनियुक्त ।\nमुक्तामणीमहास्रक्ततोद्यद्देह-\nदिक्ताण्डवोत्सव सक्तचतुराङ्ग (?)",
+    "modifications": [
+      {
+        "type": "removed_dash_prefix",
+        "removed_text": "भक्तजनपालनव्यक्तकारुण्यरस-",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "अत्रिकृतं शिवस्तोत्रम्->६८",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/shivastotramatrikRRitaM.html",
+    "original_verse": "अत्रिरुवाच -\nनमो नमो निर्गुण निर्विकार\nनमो नमो निष्कल निष्प्रपञ्च ।\nनमो नमः शान्त नमो नमस्ते\nनमो नमस्ते शिव सर्वरूप",
+    "modified_verse": "नमो नमो निर्गुण निर्विकार\nनमो नमो निष्कल निष्प्रपञ्च ।\nनमो नमः शान्त नमो नमस्ते\nनमो नमस्ते शिव सर्वरूप",
+    "modifications": [
+      {
+        "type": "removed_dash_prefix",
+        "removed_text": "अत्रिरुवाच-",
+        "position": "start"
+      }
+    ]
+  }
+]

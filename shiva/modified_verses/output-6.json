@@ -1,0 +1,262 @@
+[
+  {
+    "ref": "स्कन्दकृता शिवस्तुतिः एवं शिवप्रोक्तं स्थानकल्पनवर्णनम्->१०८",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/sthAnakalpanavarNanamskandakRRitAshivastutiHevaMshivaproktam.html",
+    "original_verse": "स्कन्दः -\nशशिखण्डशिखण्डमण्डनं विधिमुण्डामलषण्डकण्ठमालम् ।\nधृतनागसुकुण्डलं भजे हतचण्डांशुसुतप्रचण्डगर्वकाण्डम्",
+    "modified_verse": "शशिखण्डशिखण्डमण्डनं विधिमुण्डामलषण्डकण्ठमालम् ।\nधृतनागसुकुण्डलं भजे हतचण्डांशुसुतप्रचण्डगर्वकाण्डम्",
+    "modifications": [
+      {
+        "type": "removed_dash_prefix",
+        "removed_text": "स्कन्दः-",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "स्कन्दकृता शिवस्तुतिः एवं शिवप्रोक्तं स्थानकल्पनवर्णनम्->११६",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/sthAnakalpanavarNanamskandakRRitAshivastutiHevaMshivaproktam.html",
+    "original_verse": "ईश्वरः -\nस्कन्द त्वत्कृतभक्तिशक्तिभिरहो स्तुत्यं स्तुवन् मां मुदा\nयुक्तः पातकवर्गजातसहितो मुक्तः स वै पुण्यभाक् ।\nतस्मै तद्वयुनं दिशामि च यदा शक्तोऽ‍स्तु तत्वाधिकः",
+    "modified_verse": "स्कन्द त्वत्कृतभक्तिशक्तिभिरहो स्तुत्यं स्तुवन् मां मुदा\nयुक्तः पातकवर्गजातसहितो मुक्तः स वै पुण्यभाक् ।\nतस्मै तद्वयुनं दिशामि च यदा शक्तोऽ‍स्तु तत्वाधिकः",
+    "modifications": [
+      {
+        "type": "removed_dash_prefix",
+        "removed_text": "ईश्वरः-",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "सुन्दरकृता शिवस्तुतिः २->७६",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/sundarakRRitAshivastutiH2.html",
+    "original_verse": "(शिवरहस्यान्तर्गते सदाशिवाख्ये)\nयद्वेतालवृतं तस्मै पादाब्जाय नमोऽस्तु ते",
+    "modified_verse": "यद्वेतालवृतं तस्मै पादाब्जाय नमोऽस्तु ते",
+    "modifications": [
+      {
+        "type": "removed_parentheses",
+        "removed_text": "(शिवरहस्यान्तर्गते सदाशिवाख्ये)",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "शाम्भवकृता शिवस्तुतिः->३६",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/shivastutiHshAmbhavakRRitA.html",
+    "original_verse": "शर्वाणीकुचहेमकुम्भविलसत्काश्मीररेणुपूरा-\nपूरितदिव्यकान्तिरुचिरत्वत्पादपद्मं मुदा ।\nवन्दे सुन्दरम द्रिजाकर तलालङ्कारसाराकरं\nवारं वारमनुस्मरामि सकलाभीष्टप्रदानाकरम्",
+    "modified_verse": "पूरितदिव्यकान्तिरुचिरत्वत्पादपद्मं मुदा ।\nवन्दे सुन्दरम द्रिजाकर तलालङ्कारसाराकरं\nवारं वारमनुस्मरामि सकलाभीष्टप्रदानाकरम्",
+    "modifications": [
+      {
+        "type": "removed_dash_prefix",
+        "removed_text": "शर्वाणीकुचहेमकुम्भविलसत्काश्मीररेणुपूरा-",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "शाम्भवकृता शिवस्तुतिः->३७",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/shivastutiHshAmbhavakRRitA.html",
+    "original_verse": "कारुण्यामृतसागरामरवरापारानतिव्यत्यय-\nव्यत्यस्तोन्नतपादकामितमणिश्रीरञ्जितं मां कुरु ।\nत्वामेवाहमुपागतः शरणमित्यर्धेन्दुमौले स्मर\nस्मर्तव्येष्वहमेक एव भगवन् किं नावशिष्टः प्रभो",
+    "modified_verse": "व्यत्यस्तोन्नतपादकामितमणिश्रीरञ्जितं मां कुरु ।\nत्वामेवाहमुपागतः शरणमित्यर्धेन्दुमौले स्मर\nस्मर्तव्येष्वहमेक एव भगवन् किं नावशिष्टः प्रभो",
+    "modifications": [
+      {
+        "type": "removed_dash_prefix",
+        "removed_text": "कारुण्यामृतसागरामरवरापारानतिव्यत्यय-",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "शाङ्करैः प्रोक्ता शिवस्तुतिः->१९",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/shAnkaraiHproktAshivastutiH.html",
+    "original_verse": "विद्युत्सुचञ्चलललनरदेहमेतँ-\nल्लब्ध्वापि ते पदयुगं न भजामि मुग्धः ।\nहे व्यालमाल गरशोभितकण्ठमूल\nदिव्यत्रिशूलकर कालगलातिलील",
+    "modified_verse": "ल्लब्ध्वापि ते पदयुगं न भजामि मुग्धः ।\nहे व्यालमाल गरशोभितकण्ठमूल\nदिव्यत्रिशूलकर कालगलातिलील",
+    "modifications": [
+      {
+        "type": "removed_dash_prefix",
+        "removed_text": "विद्युत्सुचञ्चलललनरदेहमेतँ-",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "शाङ्करैः प्रोक्ता शिवस्तुतिः->२०",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/shAnkaraiHproktAshivastutiH.html",
+    "original_verse": "कोलाहलध्वनिकरोत्तमभालमूल-\nज्वालानलायितपुरत्रयतूल शम्भो ।\nपाहीन्दुधाम सुललाम जटोत्तमाङ्ग\nमालायिताब्जजकपाल तलातलस्थ",
+    "modified_verse": "ज्वालानलायितपुरत्रयतूल शम्भो ।\nपाहीन्दुधाम सुललाम जटोत्तमाङ्ग\nमालायिताब्जजकपाल तलातलस्थ",
+    "modifications": [
+      {
+        "type": "removed_dash_prefix",
+        "removed_text": "कोलाहलध्वनिकरोत्तमभालमूल-",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "रत्नाकरकृता शिवस्तुतिः->७०",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/ratnAkarakRRitAshivastutiH.html",
+    "original_verse": "रत्नाकरः -\nक्व महेश्वरता क शम्भुता क्व कृपासागरता क्व चाज्ञता ।\nक्व निरन्तरदीनबन्धुता क्व शिवाद्याप्यकृपैव मय्यपि",
+    "modified_verse": "क्व महेश्वरता क शम्भुता क्व कृपासागरता क्व चाज्ञता ।\nक्व निरन्तरदीनबन्धुता क्व शिवाद्याप्यकृपैव मय्यपि",
+    "modifications": [
+      {
+        "type": "removed_dash_prefix",
+        "removed_text": "रत्नाकरः-",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "यमकृता शिवस्तुतिः->२०७",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/shivastutiHyamakRRitA.html",
+    "original_verse": "विनिहतविधिमुण्डमुण्डमाला-\nकलन कराल लोलशूलपाणे ।\nभव शरणमितीरयन्ति ये तान्\nभजत मुहुर्विनयेन पूजयध्वम्",
+    "modified_verse": "कलन कराल लोलशूलपाणे ।\nभव शरणमितीरयन्ति ये तान्\nभजत मुहुर्विनयेन पूजयध्वम्",
+    "modifications": [
+      {
+        "type": "removed_dash_prefix",
+        "removed_text": "विनिहतविधिमुण्डमुण्डमाला-",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "मङ्कणकृता १ शिवस्तुतिः->१५",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/mankaNakRRitAshivastutiH1.html",
+    "original_verse": "(हा हा हन्त भवेत पातककरं त्र्यक्षाद्य पश्याम्यहम्)",
+    "modified_verse": "",
+    "modifications": [
+      {
+        "type": "removed_parentheses",
+        "removed_text": "(हा हा हन्त भवेत पातककरं त्र्यक्षाद्य पश्याम्यहम्)",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "भृङ्गीकृता शिवस्तुतिः->१८",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/bhRRingIkRRitAshivastutiH.html",
+    "original_verse": "पौलस्त्यात्मजवाहुतोलितमहाकैलासस्थिता-\nपारोद्वाहपरिश्रमार्तभुजभग्नार्तिस्तिवाम्रेडित ।\nस्वर्गगङ्गापतनोरुगर्वकुलिशाखर्वाकपर्दोल्ल-\nपल्लीक्षेवाशुधृताव्ययेश्वर महादेवाद्य मां पालय",
+    "modified_verse": "पारोद्वाहपरिश्रमार्तभुजभग्नार्तिस्तिवाम्रेडित ।\nस्वर्गगङ्गापतनोरुगर्वकुलिशाखर्वाकपर्दोल्ल-\nपल्लीक्षेवाशुधृताव्ययेश्वर महादेवाद्य मां पालय",
+    "modifications": [
+      {
+        "type": "removed_dash_prefix",
+        "removed_text": "पौलस्त्यात्मजवाहुतोलितमहाकैलासस्थिता-",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "भृङ्गीकृता शिवस्तुतिः->२२",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/bhRRingIkRRitAshivastutiH.html",
+    "original_verse": "(एवं संस्तूयमानश्च भृङ्गिनः पुरतः शिवः ।)\nप्रादुरासीद्वृषारूढो नीलकण्ठस्त्रिलोचनः",
+    "modified_verse": "प्रादुरासीद्वृषारूढो नीलकण्ठस्त्रिलोचनः",
+    "modifications": [
+      {
+        "type": "removed_parentheses",
+        "removed_text": "(एवं संस्तूयमानश्च भृङ्गिनः पुरतः शिवः ।)",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "ब्रह्माकृता शिवस्तुतिः->२७",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/brahmAkRRitAshivastutiH.html",
+    "original_verse": "अजाद्यमुण्डपण्डधृङ्महाण्डकोटिमण्डल-\nप्रचण्डताण्डवोल्लसत्सुगण्डकुण्डलीश्वरम् ।\nशिखण्डखण्डसोमधृक्सुपुण्डरीकसम्भवप्रकाश-\nचर्मवासितं भजाम्यखण्डमीश्वरम्",
+    "modified_verse": "प्रचण्डताण्डवोल्लसत्सुगण्डकुण्डलीश्वरम् ।\nशिखण्डखण्डसोमधृक्सुपुण्डरीकसम्भवप्रकाश-\nचर्मवासितं भजाम्यखण्डमीश्वरम्",
+    "modifications": [
+      {
+        "type": "removed_dash_prefix",
+        "removed_text": "अजाद्यमुण्डपण्डधृङ्महाण्डकोटिमण्डल-",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "ब्रह्मकृता शिवस्तुतिः->७०",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/shivastutiHbrahmakRRitA.html",
+    "original_verse": "ब्रह्मोवाच -\nहिरण्यबाहो ब्रह्मा त्वं विष्णुस्त्वं जगतः पतिः ।\nसृष्टिस्थितिविनाशानां हेतुस्त्वं केवलं हर",
+    "modified_verse": "हिरण्यबाहो ब्रह्मा त्वं विष्णुस्त्वं जगतः पतिः ।\nसृष्टिस्थितिविनाशानां हेतुस्त्वं केवलं हर",
+    "modifications": [
+      {
+        "type": "removed_dash_prefix",
+        "removed_text": "ब्रह्मोवाच-",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "पार्वतीकृता शिवस्तुतिः ३->४४",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/pArvatIkRRitAshivastutiH3.html",
+    "original_verse": "एकाम्रमूलनिलयादिनवीतिहोत्र-\nसोमाम्बकादखिलपूर्वसुरान्तकर्तुः ।\nमन्ये नवान्यदिहदैवतमादिमध्य-\nजगतोनाशङ्करात् शङ्करात्",
+    "modified_verse": "सोमाम्बकादखिलपूर्वसुरान्तकर्तुः ।\nमन्ये नवान्यदिहदैवतमादिमध्य-\nजगतोनाशङ्करात् शङ्करात्",
+    "modifications": [
+      {
+        "type": "removed_dash_prefix",
+        "removed_text": "एकाम्रमूलनिलयादिनवीतिहोत्र-",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "नारदकृताशिवस्तुतिः एवं शिवप्राकट्य->४४",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/shivastutiHnAradakRRitAshivaprAkaTya.html",
+    "original_verse": "(भक्तिज्ञानपुरस्कृतस्तवपदद्वन्द्वावलोकोत्सुकः)",
+    "modified_verse": "",
+    "modifications": [
+      {
+        "type": "removed_parentheses",
+        "removed_text": "(भक्तिज्ञानपुरस्कृतस्तवपदद्वन्द्वावलोकोत्सुकः)",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "नन्दिकेश्वरप्रोक्ता शिवस्तुतिः->३०",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/nandikeshvaraproktAshivastutiH.html",
+    "original_verse": "(शिवरहस्यान्तर्गते महादेवाख्ये)\nजयात्मयोगसंस्थाय जय संशुद्धचेतसे",
+    "modified_verse": "जयात्मयोगसंस्थाय जय संशुद्धचेतसे",
+    "modifications": [
+      {
+        "type": "removed_parentheses",
+        "removed_text": "(शिवरहस्यान्तर्गते महादेवाख्ये)",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "देवैः कृता शिवस्तुतिः २->१६",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/shivastutiHdevaiHkRRitA2.html",
+    "original_verse": "देवाः -\nकुन्दामन्दमरन्दसौभगमहामन्दारसन्मालिका-\nलोलोत्तुङ्गतरङ्गरङ्गितमहागङ्गाम्बुजोत्कैरवम् ।\nपर्वानन्दितशर्वरीरमणतोतुङ्गाङ्गमौलिं शिवं\nध्यायामोऽद्य महाघसंसृतिभवं दुःखं विहायादरात्",
+    "modified_verse": "कुन्दामन्दमरन्दसौभगमहामन्दारसन्मालिका-\nलोलोत्तुङ्गतरङ्गरङ्गितमहागङ्गाम्बुजोत्कैरवम् ।\nपर्वानन्दितशर्वरीरमणतोतुङ्गाङ्गमौलिं शिवं\nध्यायामोऽद्य महाघसंसृतिभवं दुःखं विहायादरात्",
+    "modifications": [
+      {
+        "type": "removed_dash_prefix",
+        "removed_text": "देवाः-",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "देवैः कृता शिवस्तुतिः २->१९",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/shivastutiHdevaiHkRRitA2.html",
+    "original_verse": "सूतः -\nएवं स्तुवन्ति ते देवा मेरुमौलिस्थितं शिवम् ।\nगन्धर्वाप्सरसस्सिद्धा मुनयो वीतकल्मषाः",
+    "modified_verse": "एवं स्तुवन्ति ते देवा मेरुमौलिस्थितं शिवम् ।\nगन्धर्वाप्सरसस्सिद्धा मुनयो वीतकल्मषाः",
+    "modifications": [
+      {
+        "type": "removed_dash_prefix",
+        "removed_text": "सूतः-",
+        "position": "start"
+      }
+    ]
+  },
+  {
+    "ref": "देवीकृता शिवस्तुतिः->४२",
+    "document_link": "https://sanskritdocuments.org/doc_shiva/shivastutiHdevIkRRitA2.html",
+    "original_verse": "देवी -\nहर हर परिपाहि दीनबन्धो पुरहर देव दयानिधान धीर ।\nमुरहरपरिपूजिताङ्घ्रिपद्म प्रकटसुधाकरशेखरोरुवीर",
+    "modified_verse": "हर हर परिपाहि दीनबन्धो पुरहर देव दयानिधान धीर ।\nमुरहरपरिपूजिताङ्घ्रिपद्म प्रकटसुधाकरशेखरोरुवीर",
+    "modifications": [
+      {
+        "type": "removed_dash_prefix",
+        "removed_text": "देवी-",
+        "position": "start"
+      }
+    ]
+  }
+]
